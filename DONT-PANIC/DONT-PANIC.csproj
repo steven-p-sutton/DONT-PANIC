@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Installs\" />
-    <Folder Include="Zip\" />
   </ItemGroup>
 
 </Project>
