@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Installs\" />
-    <Folder Include="Pdf\" />
     <Folder Include="Zip\" />
   </ItemGroup>
 
