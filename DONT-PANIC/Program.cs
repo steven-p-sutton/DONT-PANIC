@@ -6,7 +6,7 @@ namespace DONT_PANIC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("DON'T PANIC!");
         }
     }
 }
