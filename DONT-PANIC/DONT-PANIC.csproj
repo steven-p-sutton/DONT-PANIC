@@ -6,8 +6,4 @@
     <RootNamespace>DONT_PANIC</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Installs\" />
-  </ItemGroup>
-
 </Project>
