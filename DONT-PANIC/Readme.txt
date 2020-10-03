@@ -1,0 +1,154 @@
+Micosoft Documentation
+======================
+https://docs.microsoft.com/en-us/
+	AZURE
+
+	.NET
+	https://dotnet.microsoft.com/
+		https://dotnet.microsoft.com/learn
+			https://dotnet.microsoft.com/learn/videos
+
+	Visual Studio product family
+	https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
+
+		Visual Studio
+		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
+		Visual Studio Code
+		https://code.visualstudio.com/docs
+		Visual Studio Codespaces
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
+		Visual Studio App Center
+		https://docs.microsoft.com/en-us/appcenter/
+		Visual Stidio Subscriptions
+		https://docs.microsoft.com/en-us/visualstudio/subscriptions/
+
+	.NET Architecture Guides
+	https://dotnet.microsoft.com/learn/dotnet/architecture-
+
+Visual Studio product family documentation
+==========================================
+https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
+
+	Visual Studio
+	=============
+	https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2019
+
+		Templates & Extensions
+		======================
+		https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
+		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-locate-and-organize-project-and-item-templates?view=vs-2019
+		%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates
+		%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates
+		https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
+		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
+		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
+
+	Visual Studio Code
+	==================
+	https://code.visualstudio.com/docs
+
+	Visual Studio Codespaces
+	========================
+	https://code.visualstudio.com/docs/remote/codespaces
+	https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
+		How-to guides
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
+
+Architecture
+============
+	Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure e-book
+	(using eShopOnWeb)
+	https://ardalis.com/architecture-ebook/
+	https://dotnet.microsoft.com/download/e-book/aspnet/pdf
+
+Clean Architecture
+==================
+https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202017/Clean%20Architecture%20with%20ASP.NET%20Core.pdf
+	
+	Source
+	https://github.com/ardalis/CleanArchitecture
+
+Microservices
+=============
+https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf
+
+Desktop Docker
+==============
+https://hub.docker.com/editions/community/docker-ce-desktop-windows
+
+Error: Visual Studio Container Tools requires Docker to be running
+https://aka.ms/DockerToolsTroubleshooting
+	
+GIT
+===
+https://guides.github.com/activities/hello-world/
+
+	https://yourbrainoncomputers.com/getting-started-with-git-and-13-essential-things-to-know/
+	Connecting a local repo to a remote repo (original or other one (yours) when copying 
+
+	- create elocal repo from sourec  remote one via url
+	- open cmd line & cd to local repo
+		>git remote add origin https://github.com/steven-p-sutton/eShopOnContainers.git
+		>git branch -M main  
+	- now you can sync your local repo to your new remote one and not use the orginal source repo
+		>git push -u origin master  
+
+	https://www.toolsqa.com/git/local-repository-remote-repository/
+
+	How to create new repo & populate with new Visula Studio project
+	https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
+
+	- Open VS & with Open page select "continue with code" option beneath main option panels
+	- File-> New-> Repository
+	- File-> New-> Project
+-	- Team Explorer-> Changes-> Stage
+	- Team Explorer-> Changes-> Commit Staged
+	- Team Explorer-> Sync-> Publish To GitHub -> Publish
+	
+eShopOnWeb
+==========
+	Characteristics of Modern Web Applications
+	(eShopOnWeb) - Simple using desktop containers
+	https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/modern-web-applications-characteristics
+	
+	Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure e-book
+	https://ardalis.com/architecture-ebook/
+	https://dotnet.microsoft.com/download/e-book/aspnet/pdf
+	
+	Source
+	https://github.com/dotnet-architecture/eShopOnWeb
+	
+	Desktop Docker
+	https://hub.docker.com/editions/community/docker-ce-desktop-windows
+
+eShopOnContainers
+=================
+	Introducing eShopOnContainers reference app
+	(eShopOnContainers) - Full Azure containers 
+	https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduce-eshoponcontainers-reference-app
+
+	.NET Microservices: Architecture for Containerized .NET Applications
+	https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf
+
+	Source
+	https://github.com/dotnet-architecture/eShopOnContainers
+
+	Microservices architecture e-book
+	https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>DONT_PANIC</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Installs\" />
+    <Folder Include="Pdf\" />
+    <Folder Include="Zip\" />
+  </ItemGroup>
 
 </Project>
