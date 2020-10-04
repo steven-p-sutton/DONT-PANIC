@@ -82,6 +82,7 @@ https://aka.ms/DockerToolsTroubleshooting
 	
 GIT
 ===
+Introduction - Hello Worl 
 https://guides.github.com/activities/hello-world/
 
 	https://yourbrainoncomputers.com/getting-started-with-git-and-13-essential-things-to-know/
@@ -96,8 +97,8 @@ https://guides.github.com/activities/hello-world/
 
 	https://www.toolsqa.com/git/local-repository-remote-repository/
 
-	How to create new repo & populate with new Visula Studio project
-	https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
+How to create new repo & populate with new Visual Studio project
+https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
 
 	- Open VS & with Open page select "continue with code" option beneath main option panels
 	- File-> New-> Repository
@@ -105,6 +106,9 @@ https://guides.github.com/activities/hello-world/
 -	- Team Explorer-> Changes-> Stage
 	- Team Explorer-> Changes-> Commit Staged
 	- Team Explorer-> Sync-> Publish To GitHub -> Publish
+
+Organizing your work
+https://andreicioara.com/how-i-organize-my-github-repositories-ce877db2e8b6
 	
 eShopOnWeb
 ==========
