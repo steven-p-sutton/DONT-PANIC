@@ -82,7 +82,7 @@ https://aka.ms/DockerToolsTroubleshooting
 	
 GIT
 ===
-Introduction - Hello Worl 
+Introduction - Hello World 
 https://guides.github.com/activities/hello-world/
 
 	https://yourbrainoncomputers.com/getting-started-with-git-and-13-essential-things-to-know/
