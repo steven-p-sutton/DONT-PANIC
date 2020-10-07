@@ -79,16 +79,29 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 Error: Visual Studio Container Tools requires Docker to be running
 https://aka.ms/DockerToolsTroubleshooting
+
+Hardware assisted virtualization and data execution protection must be enabled in the BIOS
+https://dotnetthoughts.net/hardware-assisted-virtualization-and-data-execution-protection-must-be-enabled/
+
+	>dism.exe /Online /Enable-Feature:Microsoft-Hyper-V /All
+	>bcdedit /set hypervisorlaunchtype auto
+
+Docker support in Visual Studio
+https://docs.microsoft.com/en-us/visualstudio/containers/overview?view=vs-2019
+
+Hyper-V
+=======
+https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
 	
 GIT
 ===
-Introduction - Hello World 
+Introduction - Hello Worl 
 https://guides.github.com/activities/hello-world/
 
 	https://yourbrainoncomputers.com/getting-started-with-git-and-13-essential-things-to-know/
 	Connecting a local repo to a remote repo (original or other one (yours) when copying 
 
-	- create elocal repo from sourec  remote one via url
+	- create local repo from sourec remote one via url
 	- open cmd line & cd to local repo
 		>git remote add origin https://github.com/steven-p-sutton/eShopOnContainers.git
 		>git branch -M main  
@@ -107,8 +120,15 @@ https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-
 	- Team Explorer-> Changes-> Commit Staged
 	- Team Explorer-> Sync-> Publish To GitHub -> Publish
 
-Organizing your work
+GitHub Onboarding and Introduction
+https://gist.github.com/jbjonesjr/d4854be10e2df5e2f91c4b4928d8ec68
+https://user-images.githubusercontent.com/16810959/33858575-27f42030-de9e-11e7-96ac-9fbaf24a142b.png
+
+How I Organize my GitHub Repositories
 https://andreicioara.com/how-i-organize-my-github-repositories-ce877db2e8b6
+
+Managing Teams and Organizations in GitHub
+https://stackify.com/managing-teams-github/
 	
 eShopOnWeb
 ==========
