@@ -5,6 +5,31 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DONT-PANIC", "DONT-PANIC\DONT-PANIC.csproj", "{3053EEB3-9DE9-4CF5-A0A6-3DC85BDF8CCB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pdf", "Pdf", "{EE6547B8-B8CE-4EDA-95B4-77759843DDA9}"
+	ProjectSection(SolutionItems) = preProject
+		Pdf\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf = Pdf\Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure.pdf
+		Pdf\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf = Pdf\NET-Microservices-Architecture-for-Containerized-NET-Applications.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installs", "Installs", "{9F157A42-DAB9-4B15-9446-BCEB89787460}"
+	ProjectSection(SolutionItems) = preProject
+		Installs\haxm-7.6.5-setup.exe = Installs\haxm-7.6.5-setup.exe
+		Installs\vsixTemplatePackSideWaffle.vsix = Installs\vsixTemplatePackSideWaffle.vsix
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zip", "Zip", "{E045674A-D720-41E7-BA73-754E280165F2}"
+	ProjectSection(SolutionItems) = preProject
+		Zip\CleanArchitecture-master.zip = Zip\CleanArchitecture-master.zip
+		Zip\eShopOnContainers-dev.zip = Zip\eShopOnContainers-dev.zip
+		Zip\eShopOnWeb-master.zip = Zip\eShopOnWeb-master.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D5D5828-398F-4F01-A99F-716D716A04A4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
