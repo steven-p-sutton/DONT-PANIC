@@ -8,52 +8,39 @@ https://docs.microsoft.com/en-us/
 		https://dotnet.microsoft.com/learn
 			https://dotnet.microsoft.com/learn/videos
 
-	Visual Studio product family
-	https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
-
-		Visual Studio
-		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
-		Visual Studio Code
-		https://code.visualstudio.com/docs
-		Visual Studio Codespaces
-		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
-		Visual Studio App Center
-		https://docs.microsoft.com/en-us/appcenter/
-		Visual Stidio Subscriptions
-		https://docs.microsoft.com/en-us/visualstudio/subscriptions/
-
 	.NET Architecture Guides
 	https://dotnet.microsoft.com/learn/dotnet/architecture-
 
-Visual Studio product family documentation
-==========================================
-https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
+	Visual Studio product family
+	https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
 
-	Visual Studio
-	=============
-	https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2019
+		Visual Studio Subscriptions
+		https://docs.microsoft.com/en-us/visualstudio/subscriptions/
 
-		Templates & Extensions
-		======================
-		https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
-		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-locate-and-organize-project-and-item-templates?view=vs-2019
-		%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates
-		%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates
-		https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
-		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
-		https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
+		Visual Studio App Center
+		https://docs.microsoft.com/en-us/appcenter/
 
-	Visual Studio Code
-	==================
-	https://code.visualstudio.com/docs
+		Visual Studio
+		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
 
-	Visual Studio Codespaces
-	========================
-	https://code.visualstudio.com/docs/remote/codespaces
-	https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
-		How-to guides
-		https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
-		https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
+			Templates & Extensions
+			https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-locate-and-organize-project-and-item-templates?view=vs-2019
+			%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates
+			%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates
+			https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
+
+		Visual Studio Code
+		https://code.visualstudio.com/docs
+
+		Visual Studio Codespaces
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
+			How-to guides
+			https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
+			https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
 
 Architecture
 ============
