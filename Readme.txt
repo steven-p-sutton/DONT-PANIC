@@ -19,6 +19,7 @@ https://docs.microsoft.com/en-us/
 
 		Visual Studio App Center
 		https://docs.microsoft.com/en-us/appcenter/
+		https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/code-repos
 
 		Visual Studio
 		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
