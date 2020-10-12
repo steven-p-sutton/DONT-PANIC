@@ -13,7 +13,10 @@ https://docs.microsoft.com/en-us/
 			https://dotnet.microsoft.com/learn/videos
 
 	.NET Architecture Guides
-	https://dotnet.microsoft.com/learn/dotnet/architecture-
+	https://dotnet.microsoft.com/learn/dotnet/architecture
+
+	UWP
+	https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
 
 	Visual Studio product family
 	https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
