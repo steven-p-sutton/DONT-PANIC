@@ -18,6 +18,11 @@ https://docs.microsoft.com/en-us/
 	UWP
 	https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
 
+	WEB
+
+	WPF
+
+
 	Visual Studio product family
 	https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
 
@@ -44,6 +49,10 @@ https://docs.microsoft.com/en-us/
 			https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
 			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
 			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
+
+			Tutorials
+			(Console/UWP/WPF/WinForms/WEB/ASP/Core)
+			https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019
 
 		Visual Studio Code
 		https://code.visualstudio.com/docs
