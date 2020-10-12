@@ -23,6 +23,7 @@ https://docs.microsoft.com/en-us/
 
 		Visual Studio App Center
 		https://docs.microsoft.com/en-us/appcenter/
+		https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/code-repos
 
 			Building
 			https://docs.microsoft.com/en-us/appcenter/build/
