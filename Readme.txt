@@ -1,3 +1,7 @@
+Visual Studio Magazine
+======================
+https://visualstudiomagazine.com/home.aspx
+
 Micosoft Documentation
 ======================
 https://docs.microsoft.com/en-us/
@@ -19,6 +23,10 @@ https://docs.microsoft.com/en-us/
 
 		Visual Studio App Center
 		https://docs.microsoft.com/en-us/appcenter/
+			Building
+			https://docs.microsoft.com/en-us/appcenter/build/
+				https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/
+					https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/build-failed
 
 		Visual Studio
 		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
@@ -34,6 +42,8 @@ https://docs.microsoft.com/en-us/
 
 		Visual Studio Code
 		https://code.visualstudio.com/docs
+		https://www.c-sharpcorner.com/article/running-a-visual-studio-2019-solution-in-visual-studio-code/
+		https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code#:~:text=The%20first%20thing%20you%20need%20to%20do%20to,CTRL%20%2B%20%60%20on%20Linux%2C%20macOS%2C%20or%20Windows.
 
 		Visual Studio Codespaces
 		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
