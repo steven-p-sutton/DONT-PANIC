@@ -2,6 +2,13 @@ Visual Studio Magazine
 ======================
 https://visualstudiomagazine.com/home.aspx
 
+Microsoft GitHub Repositories
+============================
+https://github.com/microsoft
+
+	PhotoLab
+	https://github.com/Microsoft/Windows-appsample-photo-lab
+
 Micosoft Documentation
 ======================
 https://docs.microsoft.com/en-us/
@@ -16,7 +23,12 @@ https://docs.microsoft.com/en-us/
 	https://dotnet.microsoft.com/learn/dotnet/architecture
 
 	UWP
+	https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide
 	https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
+	https://stackoverflow.com/questions/34743817/the-button-is-not-visible
+
+	https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui
+	https://github.com/Microsoft/Windows-appsample-photo-lab
 
 	WEB
 
