@@ -110,15 +110,26 @@ Micosoft Documentation
 
 				Part 1: Define window breakpoints
 					- Add window breakpoints
+					https://docs.microsoft.com/en-us/windows/uwp/design/layout/screen-sizes-and-breakpoints-for-responsive-design
 				Part 2: Add a data template for small window sizes
 					- Create a new DataTemplate
 					- Add metadata to a tooltip
 				Part 3: Define visual states
+					https://docs.microsoft.com/en-us/windows/uwp/design/layout/layouts-with-xaml
+					https://docs.microsoft.com/en-us/windows/uwp/design/layout/layouts-with-xaml#adaptive-layouts-with-visual-states-and-state-triggers
+					https://docs.microsoft.com/en-us/windows/uwp/design/layout/layouts-with-xaml#tailored-layouts
 					- Add a VisualStateManager
+					https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.visualstatemanager?view=winrt-19041
+					https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.visualstate?view=winrt-19041
 					- Create StateTriggers to apply the visual state
 					- Set properties for each visual state
 
 			Tutorial: Create custom styles - PhotoLab 
+				https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-style
+				https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Shapes?view=winrt-19041
+				https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/shapes
+
+				https://github.com/microsoft/microsoft-ui-xaml/blob/master/dev/Slider/Slider_themeresources.xaml
 
 
 	WEB
