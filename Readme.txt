@@ -24,6 +24,17 @@ VS Code
 	https://code.visualstudio.com/docs/containers/overview
 	https://code.visualstudio.com/tryappservice/
 
+GitHub
+	https://github.com/microsoft/vscode
+	https://github.com/microsoft/PowerToys
+	https://github.com/microsoft/vscode-deploy-azure
+	https://github.com/microsoft/vscode-mssql
+	https://github.com/microsoft/vscode-npm-scripts
+	https://github.com/microsoft/Windows-universal-samples
+	https://github.com/microsoft/sql-server-samples
+	https://github.com/microsoft/azure-docs
+
+
 ================================================================================
 ================================= Documentation ================================ 
 ================================================================================
@@ -63,7 +74,6 @@ Micosoft Documentation
 
 		Design basics for Windows apps
 			https://docs.microsoft.com/en-us/windows/uwp/design/basics/
-
 
 		HelloWorld
 			https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
@@ -126,11 +136,19 @@ Micosoft Documentation
 
 			Tutorial: Create custom styles - PhotoLab 
 				https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-style
-				https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Shapes?view=winrt-19041
-				https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/shapes
 
-				https://github.com/microsoft/microsoft-ui-xaml/blob/master/dev/Slider/Slider_themeresources.xaml
+				Part 1: Create a fancy slider control
+					- Customize a slider control
+					https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Shapes?view=winrt-19041
+					https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/shapes
+    
+				Part 2: Create basic styles
+					https://docs.microsoft.com/en-us/uwp/api/Windows.UI.Xaml.Style?view=winrt-19041
+					https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.frameworkelement.Resources?view=winrt-19041
+					- Create a value text block style
 
+				Part 3: Use a control template to make a fancy slider
+					https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-style#prerequisite
 
 	WEB
 
