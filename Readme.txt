@@ -2,7 +2,12 @@
 ===================================== ToDo ===================================== 
 ================================================================================
 
+Visual Studio Magazine
+======================
+https://visualstudiomagazine.com/home.aspx
+
 VS Code
+=======
 	https://code.visualstudio.com/docs/languages/overview
 
 	Languages
@@ -24,7 +29,8 @@ VS Code
 	https://code.visualstudio.com/docs/containers/overview
 	https://code.visualstudio.com/tryappservice/
 
-GitHub
+Examples
+========
 	https://github.com/microsoft/vscode
 	https://github.com/microsoft/PowerToys
 	https://github.com/microsoft/vscode-deploy-azure
@@ -34,14 +40,32 @@ GitHub
 	https://github.com/microsoft/sql-server-samples
 	https://github.com/microsoft/azure-docs
 
+	https://developer.microsoft.com/en-us/windows/samples/
+
+	BuildCast
+		Showcases the Microsoft Fluent Design System and UWP capabilities, including ink notes, bookmarks and remote playback.
+		https://github.com/Microsoft/BuildCast
+	Lunch Scheduler
+		See integration with services like Facebook, Microsoft Graph, Bing maps, and Yelp
+		https://github.com/Microsoft/Windows-appsample-lunch-scheduler
+	Coloring Book
+		Demonstrates the versatility of Windows Ink and radial controller features
+		https://github.com/Microsoft/Windows-appsample-coloringbook
+
+	UWP Customer Order Database sample
+		Demonstrates a working database hosted on Azure, implemented in C# and XAML
+		https://github.com/Microsoft/Windows-appsample-customers-orders-database
+
+	Universal Windows Platform (UWP) app samples
+		https://github.com/microsoft/Windows-universal-samples
+
+Visual Studio Blend
+===================
+	https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
 
 ================================================================================
 ================================= Documentation ================================ 
 ================================================================================
-
-Visual Studio Magazine
-======================
-https://visualstudiomagazine.com/home.aspx
 
 Microsoft GitHub Repositories
 ============================
@@ -56,6 +80,7 @@ https://github.com/microsoft
 Micosoft Documentation
 ======================
 	https://docs.microsoft.com/en-us/
+
 	AZURE
 
 	.NET
@@ -81,6 +106,7 @@ Micosoft Documentation
 	UWP
 		https://docs.microsoft.com/en-us/windows/uwp/
 		https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide
+		https://docs.microsoft.com/en-us/windows/uwp/get-started/get-app-samples
 
 		Design basics for Windows apps
 			https://docs.microsoft.com/en-us/windows/uwp/design/basics/
@@ -159,7 +185,6 @@ Micosoft Documentation
 
 				Part 3: Use a control template to make a fancy slider
 					https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-style#prerequisite
-
 	WEB
 
 	WPF
@@ -250,6 +275,9 @@ Micosoft Documentation
 			How-to guides
 				https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
 				https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
+
+		Visual Studio Blend
+			https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
 
 Architecture
 ============
