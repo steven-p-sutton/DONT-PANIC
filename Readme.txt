@@ -87,6 +87,10 @@ Micosoft Documentation
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/videos
+		String Format
+			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
+		Dialog Boxes
+			https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
 
 	.NET Architecture Guides
 		https://dotnet.microsoft.com/learn/dotnet/architecture
