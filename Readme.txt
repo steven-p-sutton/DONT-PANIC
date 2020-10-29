@@ -107,19 +107,45 @@ Micosoft Documentation
 	MSIX
 		https://docs.microsoft.com/en-us/windows/msix/
 
+	XMAL
+		XMAL Designer
+			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
+
 	UWP
 		https://docs.microsoft.com/en-us/windows/uwp/
 		https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide
 		https://docs.microsoft.com/en-us/windows/uwp/get-started/get-app-samples
 
+		Develop UWP Apps
+			https://docs.microsoft.com/en-us/windows/uwp/develop/
+
 		Design basics for Windows apps
 			https://docs.microsoft.com/en-us/windows/uwp/design/basics/
 
-		HelloWorld
-			https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
-			https://stackoverflow.com/questions/34743817/the-button-is-not-visible
+		Examples
+			Universal Windows Platform (UWP) app samples
+				https://github.com/microsoft/Windows-universal-samples
+			HelloWorld
+				https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-uwp?view=vs-2019
+				https://stackoverflow.com/questions/34743817/the-button-is-not-visible
+			BuildCast
+				Showcases the Microsoft Fluent Design System and UWP capabilities, including ink notes, bookmarks and remote playback.
+				https://github.com/Microsoft/BuildCast
+			Lunch Scheduler
+				See integration with services like Facebook, Microsoft Graph, Bing maps, and Yelp
+				https://github.com/Microsoft/Windows-appsample-lunch-scheduler
+			Coloring Book
+				Demonstrates the versatility of Windows Ink and radial controller features
+				https://github.com/Microsoft/Windows-appsample-coloringbook
+			UWP Customer Order Database sample
+				Demonstrates a working database hosted on Azure, implemented in C# and XAML
+				https://github.com/Microsoft/Windows-appsample-customers-orders-database
 
 		PhotoLab 
+			PhotoLab is the example used in the bigger respouce for UWP with the starting point here:
+				https://docs.microsoft.com/en-us/windows/uwp/design/
+
 			Tutorial: Create a user interface - PhotoLab 
 				https://docs.microsoft.com/en-us/windows/uwp/design/basics/xaml-basics-ui
 
@@ -200,24 +226,6 @@ Micosoft Documentation
 		Samples
 			https://developer.microsoft.com/en-us/windows/samples/
 
-			BuildCast
-				Showcases the Microsoft Fluent Design System and UWP capabilities, including ink notes, bookmarks and remote playback.
-				https://github.com/Microsoft/BuildCast
-			Lunch Scheduler
-				See integration with services like Facebook, Microsoft Graph, Bing maps, and Yelp
-				https://github.com/Microsoft/Windows-appsample-lunch-scheduler
-
-			Coloring Book
-				Demonstrates the versatility of Windows Ink and radial controller features
-				https://github.com/Microsoft/Windows-appsample-coloringbook
-
-			UWP Customer Order Database sample
-				Demonstrates a working database hosted on Azure, implemented in C# and XAML
-				https://github.com/Microsoft/Windows-appsample-customers-orders-database
-
-			Universal Windows Platform (UWP) app samples
-				https://github.com/microsoft/Windows-universal-samples
-
 		Visual Studio Subscriptions
 			https://docs.microsoft.com/en-us/visualstudio/subscriptions/
 
@@ -241,7 +249,7 @@ Micosoft Documentation
 				Use "Add or Remove Programs" 
 				Run install.ps using Powershell
 				***********************************************************
-		Visual Studio
+		Visual Studio 2019
 			https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
 
 			Templates & Extensions
@@ -281,6 +289,7 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
 
 		Visual Studio Blend
+		(XMAL editor shared with Visual Studio)
 			https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
 
 Architecture
