@@ -22,6 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zip", "Zip", "{E045674A-D72
 		Zip\CleanArchitecture-master.zip = Zip\CleanArchitecture-master.zip
 		Zip\eShopOnContainers-dev.zip = Zip\eShopOnContainers-dev.zip
 		Zip\eShopOnWeb-master.zip = Zip\eShopOnWeb-master.zip
+		Zip\Xaml-Controls-Gallery-master.zip = Zip\Xaml-Controls-Gallery-master.zip
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D5D5828-398F-4F01-A99F-716D716A04A4}"

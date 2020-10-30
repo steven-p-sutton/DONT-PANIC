@@ -263,8 +263,7 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
 
-			Tutorials
-			(Console/UWP/WPF/WinForms/WEB/ASP/Core)
+			Tutorials (Console/UWP/WPF/WinForms/WEB/ASP/Core)
 				https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019
 
 		Visual Studio Code
