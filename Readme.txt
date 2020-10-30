@@ -112,7 +112,9 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/?view=vs-2019
 			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
 
-	UWP
+	UWP (Windows 10 Apps)
+	https://docs.microsoft.com/en-us/windows/uwp/get-started/
+
 		https://docs.microsoft.com/en-us/windows/uwp/
 		https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide
 		https://docs.microsoft.com/en-us/windows/uwp/get-started/get-app-samples
