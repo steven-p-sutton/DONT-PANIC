@@ -63,6 +63,14 @@ Visual Studio Blend
 ===================
 	https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
 
+.NET 5 (Evolution of .NET Core)
+===============================
+	https://docs.microsoft.com/en-us/dotnet/core/dotnet-five
+	https://devblogs.microsoft.com/dotnet/introducing-net-5/
+
+	Download SDK
+	https://dotnet.microsoft.com/download/dotnet/5.0
+
 ================================================================================
 ================================= Documentation ================================ 
 ================================================================================
@@ -91,6 +99,8 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 		Dialog Boxes
 			https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
+		Collections
+
 
 	.NET Architecture Guides
 		https://dotnet.microsoft.com/learn/dotnet/architecture
@@ -107,10 +117,9 @@ Micosoft Documentation
 	MSIX
 		https://docs.microsoft.com/en-us/windows/msix/
 
-	XMAL
-		XMAL Designer
-			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/?view=vs-2019
-			https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
+	XMAL Designer
+		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/?view=vs-2019
+		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
 
 	UWP (Windows 10 Apps)
 	https://docs.microsoft.com/en-us/windows/uwp/get-started/
