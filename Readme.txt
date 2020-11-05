@@ -85,6 +85,11 @@ https://github.com/microsoft
 	XMAL Controls
 	https://github.com/Microsoft/Xaml-Controls-Gallery
 
+	TutorialPoint
+	https://www.tutorialspoint.com/tutorialslibrary.htm
+		C#
+			https://www.tutorialspoint.com/csharp/index.htm
+
 Micosoft Documentation
 ======================
 	https://docs.microsoft.com/en-us/
@@ -94,7 +99,8 @@ Micosoft Documentation
 	.NET
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
-				https://dotnet.microsoft.com/learn/videos
+				https://dotnet.microsoft.com/learn/video
+	C#
 		Collections
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
 		Dialog Boxes
@@ -103,6 +109,10 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
 		Enumerations
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+		Properties
+			https://www.tutorialspoint.com/csharp/csharp_properties.htm
+		Reference Parameters
+			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
 		String Format
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 
@@ -233,7 +243,10 @@ Micosoft Documentation
 	WEB
 
 	WPF
-		https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2019Tutorial url 
+		https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2019Tutorial
+	C++
+		HelloWorld
+			https://docs.microsoft.com/en-us/windows/uwp/get-started/create-a-basic-windows-10-app-in-cppwinrt
 
 	Visual Studio product family
 		https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
