@@ -288,6 +288,18 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
 
+				Windows Template Studio
+				GitHub Extension for Visual Studio
+				SQLite for Universal Windows Platform
+				PowerShell Tools for Visual Studio
+				C++/CLR Windows Forms for Visual Studio 2019
+				Windows Event Log Browser
+				Visual Studio IntelliCode
+
+			Installed Extensions
+				
+			Interesting Extensions
+
 			Tutorials (Console/UWP/WPF/WinForms/WEB/ASP/Core)
 				https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019
 
