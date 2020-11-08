@@ -288,7 +288,20 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
 				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
 
-				Windows Template Studio
+			Downloads and tools for Windows 10
+				https://developer.microsoft.com/en-us/windows/downloads/
+				#
+                Windows Template Studio (Visual Studio Extension)
+                    https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/concepts.md
+                    https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-extension.md
+                    https://github.com/Microsoft/WindowsTemplateStudio
+                Windows Community Toolkit
+                    https://docs.microsoft.com/en-us/windows/communitytoolkit/
+                Microsoft Web Template Studio
+                    https://github.com/Microsoft/WebTemplateStudio/
+                Design toolkits for Windows apps
+                    https://docs.microsoft.com/en-us/windows/uwp/design/downloads/
+
 				GitHub Extension for Visual Studio
 				SQLite for Universal Windows Platform
 				PowerShell Tools for Visual Studio
