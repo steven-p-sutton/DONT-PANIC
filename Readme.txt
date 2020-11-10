@@ -87,6 +87,7 @@ https://github.com/microsoft
 
 	TutorialPoint
 	https://www.tutorialspoint.com/tutorialslibrary.htm
+
 		C#
 			https://www.tutorialspoint.com/csharp/index.htm
 
@@ -95,6 +96,12 @@ Micosoft Documentation
 	https://docs.microsoft.com/en-us/
 
 	AZURE
+		Identity
+			https://docs.microsoft.com/en-us/azure/active-directory/develop/
+			https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
+
+		Graph API
+			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 
 	.NET
 		https://dotnet.microsoft.com/
@@ -246,6 +253,13 @@ Micosoft Documentation
 	C++
 		HelloWorld
 			https://docs.microsoft.com/en-us/windows/uwp/get-started/create-a-basic-windows-10-app-in-cppwinrt
+
+	Microsoft Identity Platform
+
+		https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
+   
+        Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application
+            https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp
 
 	Visual Studio product family
 		https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
