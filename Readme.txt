@@ -95,6 +95,23 @@ Micosoft Documentation
 ======================
 	https://docs.microsoft.com/en-us/
 
+	T-SQL
+		https://www.tutorialspoint.com/t_sql/t_sql_quick_guide.htm
+		https://www.tutorialspoint.com/t_sql/t_sql_insert_statement.htm
+		https://docs.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql?view=sql-server-ver15
+		https://stackoverflow.com/questions/17274276/how-to-generate-and-manually-insert-a-uniqueidentifier-in-sql-server
+		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
+		https://docs.microsoft.com/en-us/sql/t-sql/functions/getdate-transact-sql?view=sql-server-ver15
+		https://www.tutorialspoint.com/t_sql/t_sql_stored_procedures.htm
+		https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-ver15
+		https://social.msdn.microsoft.com/forums/sqlserver/en-US/99cba7cf-f095-4a77-95d2-8480c8da17c6/nulls-in-a-uniqueidentifier-column
+
+
+	MS SQL
+		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+
 	AZURE
 		Identity
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/
