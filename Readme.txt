@@ -353,6 +353,11 @@ Micosoft Documentation
 		Entity Framework Core
 			https://docs.microsoft.com/en-us/ef/core/
 
+			Getting Started with EF Core
+				https://docs.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli
+			Migrations 
+				https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+
 		References
 			'Code First' to a New Database
 			https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database

@@ -13,8 +13,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pdf", "Pdf", "{EE6547B8-B8C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installs", "Installs", "{9F157A42-DAB9-4B15-9446-BCEB89787460}"
 	ProjectSection(SolutionItems) = preProject
+		Installs\GitHubDesktopSetup.exe = Installs\GitHubDesktopSetup.exe
 		Installs\haxm-7.6.5-setup.exe = Installs\haxm-7.6.5-setup.exe
+		Installs\InstallSQLiteStudio-3.2.1.exe = Installs\InstallSQLiteStudio-3.2.1.exe
 		Installs\vsixTemplatePackSideWaffle.vsix = Installs\vsixTemplatePackSideWaffle.vsix
+		Installs\WinMerge-2.16.8-x64-Setup.exe = Installs\WinMerge-2.16.8-x64-Setup.exe
+		Installs\winsdksetup.exe = Installs\winsdksetup.exe
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zip", "Zip", "{E045674A-D720-41E7-BA73-754E280165F2}"
