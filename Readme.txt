@@ -89,8 +89,8 @@ https://github.com/microsoft
 	TutorialPoint
 	https://www.tutorialspoint.com/tutorialslibrary.htm
 
-		C#
-			https://www.tutorialspoint.com/csharp/index.htm
+	C#
+	https://www.tutorialspoint.com/csharp/index.htm
 
 Microsoft Code Samples
 ======================
@@ -125,6 +125,7 @@ Micosoft Documentation
 
 	MS SQL (SSMS)
 		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+
 	Azure Data Studio (SSMS Alternative)
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
@@ -135,7 +136,7 @@ Micosoft Documentation
 		Data Studio (SSMS Alternative)
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15			
-			Indight Widgets (Azure Data Studio)
+		Indight Widgets (Azure Data Studio)
 				https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
 		Graph API
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
@@ -296,12 +297,14 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/windows/uwp/get-started/create-a-basic-windows-10-app-in-cppwinrt
 
 	Microsoft Identity Platform
+	===========================
 		https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
    
         Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application
             https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp
 
 	Microsoft Entity Framework
+	==========================
 		https://docs.microsoft.com/en-us/ef/
 
 		Entity Framework 6
@@ -350,6 +353,7 @@ Micosoft Documentation
 
 			Code First Data Annotations
 				https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/data-annotations
+
 		Entity Framework Core
 			https://docs.microsoft.com/en-us/ef/core/
 
@@ -365,45 +369,60 @@ Micosoft Documentation
 			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
 
 	Visual Studio product family
+	============================
 		https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
 
 		Samples
 			https://developer.microsoft.com/en-us/windows/samples/
 
-		Visual Studio Subscriptions
-			https://docs.microsoft.com/en-us/visualstudio/subscriptions/
+	Visual Studio Subscriptions
+	===========================
+		https://docs.microsoft.com/en-us/visualstudio/subscriptions/
 
-		Visual Studio App Center
-			https://docs.microsoft.com/en-us/appcenter/
-			https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/code-repos
+	Visual Studio App Center
+	========================
+		https://docs.microsoft.com/en-us/appcenter/
+		https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/code-repos
 
-			Building
-				https://docs.microsoft.com/en-us/appcenter/build/
-					https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/
-						https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/build-failed
-			Install
-				https://blogs.windows.com/windowsdeveloper/2016/04/13/windows-app-studio-update-installer-companion-app/
-				Installer App On Miccrosoft Store
-				https://www.microsoft.com/en-gb/p/windows-app-studio-installer/9nblggh4qtfx?rtc=1&activetab=pivot:overviewtab
-				Videos
-				https://video.search.yahoo.com/search/video?fr=mcafee&p=App-studio+build+ouput+%26+installation+on+local+PC#id=2&vid=24ce53dabf9c96a09d7e2c33c03647be&action=click
-				***********************************************************
-				Extract contents of build.zip into folder
-				Check that app not already installed before running build. 
-				Use "Add or Remove Programs" 
-				Run install.ps using Powershell
-				***********************************************************
-		Visual Studio 2019
-			https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
+		Building
+			https://docs.microsoft.com/en-us/appcenter/build/
+				https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/
+					https://docs.microsoft.com/en-us/appcenter/build/troubleshooting/build-failed
+		Install
+			https://blogs.windows.com/windowsdeveloper/2016/04/13/windows-app-studio-update-installer-companion-app/
+			Installer App On Miccrosoft Store
+			https://www.microsoft.com/en-gb/p/windows-app-studio-installer/9nblggh4qtfx?rtc=1&activetab=pivot:overviewtab
+			Videos
+			https://video.search.yahoo.com/search/video?fr=mcafee&p=App-studio+build+ouput+%26+installation+on+local+PC#id=2&vid=24ce53dabf9c96a09d7e2c33c03647be&action=click
+			***********************************************************
+			Extract contents of build.zip into folder
+			Check that app not already installed before running build. 
+			Use "Add or Remove Programs" 
+			Run install.ps using Powershell
+			***********************************************************
 
-			Templates & Extensions
-				https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
-				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-locate-and-organize-project-and-item-templates?view=vs-2019
-				%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates
-				%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates
-				https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
-				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
-				https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
+	Visual Studio 2019
+	==================
+		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
+
+		How to Create and use a Database in Visual Studio 2019
+			https://social.msdn.microsoft.com/Forums/en-US/1be96e52-8f8b-443a-96d7-99688bd56470/how-to-create-and-use-a-database-in-visual-studio-2019
+
+		Project Types
+			https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/project-type-essentials?view=vs-2019
+
+			Database
+			https://www.mssqltips.com/sqlservertip/2971/creating-a-visual-studio-database-project-for-an-existing-sql-server-database/
+
+
+		Templates & Extensions
+			https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-locate-and-organize-project-and-item-templates?view=vs-2019
+			%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates
+			%USERPROFILE%\Documents\Visual Studio 2019\Templates\ItemTemplates
+			https://docs.microsoft.com/en-us/visualstudio/ide/creating-project-and-item-templates?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-project-templates?view=vs-2019
+			https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
 
 			Downloads and tools for Windows 10
 				https://developer.microsoft.com/en-us/windows/downloads/
@@ -433,32 +452,36 @@ Micosoft Documentation
 			Tutorials (Console/UWP/WPF/WinForms/WEB/ASP/Core)
 				https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019
 
-		Visual Studio Code
-			https://code.visualstudio.com/docs
-			User Guide
-				https://code.visualstudio.com/docs/editor/codebasics
-				Snippets
-					https://code.visualstudio.com/docs/editor/userdefinedsnippets
-				Languages
-					https://code.visualstudio.com/docs/languages/overview
-					https://code.visualstudio.com/docs/nodejs/working-with-javascript
-					https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
-					https://code.visualstudio.com/docs/typescript/typescript-tutorial
-					https://code.visualstudio.com/docs/python/python-tutorial
+	Visual Studio Code
+	==================
+		https://code.visualstudio.com/docs
+
+		User Guide
+			https://code.visualstudio.com/docs/editor/codebasics
+			Snippets
+				https://code.visualstudio.com/docs/editor/userdefinedsnippets
+			Languages
+				https://code.visualstudio.com/docs/languages/overview
+				https://code.visualstudio.com/docs/nodejs/working-with-javascript
+				https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+				https://code.visualstudio.com/docs/typescript/typescript-tutorial
+				https://code.visualstudio.com/docs/python/python-tutorial
 
 			VS-2019 Soliutions
 				https://www.c-sharpcorner.com/article/running-a-visual-studio-2019-solution-in-visual-studio-code/
 
-		Visual Studio Codespaces
-			https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
+	Visual Studio Codespaces
+	========================
+		https://docs.microsoft.com/en-us/visualstudio/codespaces/overview/what-is-vsonline
 
-			How-to guides
-				https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
-				https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
+		How-to guides
+			https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/vscode
+			https://docs.microsoft.com/en-us/visualstudio/codespaces/how-to/browser
 
-		Visual Studio Blend
-		(XMAL editor shared with Visual Studio)
-			https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
+	Visual Studio Blend
+	===================
+	(XMAL editor shared with Visual Studio)
+		https://docs.microsoft.com/en-us/visualstudio/designers/creating-a-ui-by-using-blend-for-visual-studio?view=vs-2015&redirectedfrom=MSDN#:~:text=Blend%20for%20Visual%20Studio%20overview%201%20Tools%20panel.,Objects%20and%20Timeline%20window.%20...%204%20See%20also
 
 Architecture
 ============
