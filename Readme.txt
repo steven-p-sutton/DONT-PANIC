@@ -148,20 +148,37 @@ Micosoft Documentation
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/video
 	C#
+		Abstract Class
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+		Csv
+			https://thecodebuzz.com/read-csv-file-in-net-core/
+			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 		Collections
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+		DataTable
+			https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-5.0
+		Dates
+			https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
 		Dialog Boxes
 			https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
 		Dictionary
 			https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
 		Enumerations
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+		Files
+			https://www.guru99.com/c-sharp-stream.html
+			https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
+		Integer
+			https://www.tutorialsteacher.com/articles/convert-string-to-int
 		Properties
 			https://www.tutorialspoint.com/csharp/csharp_properties.htm
 		Reference Parameters
 			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
 		String Format
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
+		TextFieldParser
+			https://thecodebuzz.com/read-csv-file-in-net-core/
+			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 	Q#
 		User Guide
 			https://docs.microsoft.com/en-us/quantum/user-guide/
