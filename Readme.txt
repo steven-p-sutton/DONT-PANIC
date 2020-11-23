@@ -148,8 +148,13 @@ Micosoft Documentation
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/video
 	C#
-		Abstract Class
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+		Class
+			https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples
+			https://stackoverflow.com/questions/16363753/get-instance-name-c-sharp
+
+			Abstract
+				https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+			Sealed
 		Csv
 			https://thecodebuzz.com/read-csv-file-in-net-core/
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
@@ -165,20 +170,32 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
 		Enumerations
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+		Exceptions
+			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/
+			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
+			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions
+			https://www.telerik.com/blogs/custom-exceptions-in-c#:~:text=Custom%20Exceptions%20in%20C%23%201%20Exception%20Classes%20in,Custom%20Exception.%20...%203%20Using%20Custom%20Exception.%20
 		Files
-			https://www.guru99.com/c-sharp-stream.html
+			FileStream
+				https://www.guru99.com/c-sharp-stream.html
+				http://zetcode.com/csharp/filestream/#:~:text=The%20FileStream%27s%20Read%20%28%29%20method%20reads%20a%20block,in%20the%20specified%20byte%20array%20into%20a%20string.
+			TextStream
 			https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
+
 		Integer
 			https://www.tutorialsteacher.com/articles/convert-string-to-int
 		Properties
 			https://www.tutorialspoint.com/csharp/csharp_properties.htm
 		Reference Parameters
 			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
-		String Format
+		String
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
+			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
 		TextFieldParser
 			https://thecodebuzz.com/read-csv-file-in-net-core/
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
+		Try / Catch
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
 	Q#
 		User Guide
 			https://docs.microsoft.com/en-us/quantum/user-guide/
