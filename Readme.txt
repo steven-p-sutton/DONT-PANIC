@@ -148,10 +148,11 @@ Micosoft Documentation
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/video
 	C#
+		Async / Await (see Task)
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 		Class
 			https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples
 			https://stackoverflow.com/questions/16363753/get-instance-name-c-sharp
-
 			Abstract
 				https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 			Sealed
@@ -191,6 +192,8 @@ Micosoft Documentation
 		String
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
+		Task (see Aswait / Async)
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 		TextFieldParser
 			https://thecodebuzz.com/read-csv-file-in-net-core/
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
@@ -446,8 +449,13 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/visualstudio/extensibility/internals/project-type-essentials?view=vs-2019
 
 			Database
-			https://www.mssqltips.com/sqlservertip/2971/creating-a-visual-studio-database-project-for-an-existing-sql-server-database/
-
+				https://www.mssqltips.com/sqlservertip/2971/creating-a-visual-studio-database-project-for-an-existing-sql-server-database/
+				https://www.c-sharpcorner.com/article/create-sql-server-database-project-with-visual-studio/
+			Shared Projects
+				https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/shared-projects?tabs=windows
+			SQL Data Tools In C# - Database Creation, Management, and Deployment in Visual Studio
+				https://video.search.yahoo.com/search/video?fr=mcafee&p=Using+Visual+Studio+Database+Project+to+create+%26+manage+an+SQL+database#id=1&vid=f66723ddb2b4db1473e72f35882493be&action=click
+			
 
 		Templates & Extensions
 			https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
@@ -557,7 +565,10 @@ Hyper-V
 	
 GIT
 ===
-	Introduction - Hello Worl 
+	MD - Mark Down files
+		https://guides.github.com/features/mastering-markdown/
+
+	Introduction - Hello World
 		https://guides.github.com/activities/hello-world/
 
 		https://yourbrainoncomputers.com/getting-started-with-git-and-13-essential-things-to-know/
