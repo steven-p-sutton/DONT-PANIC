@@ -351,6 +351,7 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/ef/
 
 		Entity Framework 6
+		==================
 			https://docs.microsoft.com/en-us/ef/ef6/
 
 			Get started with Entity Framework 6
@@ -398,6 +399,7 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/data-annotations
 
 		Entity Framework Core
+		=====================
 			https://docs.microsoft.com/en-us/ef/core/
 
 			Getting Started with EF Core
@@ -406,69 +408,67 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
 
 		References
+		==========
 			'Code First' to a New Database
 			https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
 			MS SQL Express (LocalDb)
 			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
 
-	Microsoft ADO
-	=============
-
-		Try connection to a database
-			https://www.c-sharpcorner.com/blogs/access-sql-server-database-in-net-core-console-application
+			Try connection to a database
+				https://www.c-sharpcorner.com/blogs/access-sql-server-database-in-net-core-console-application
 		
-		NUGet 
-		      Microsoft.Extensions.Configuration
-		      Microsoft.Extensions.Configuration.FileExtensions
-		      Microsoft.Extensions.Configuration.Json
-		      System.Data.SqlClient
+			NUGet 
+				  Microsoft.Extensions.Configuration
+				  Microsoft.Extensions.Configuration.FileExtensions
+				  Microsoft.Extensions.Configuration.Json
+				  System.Data.SqlClient
 		
-		appsetings.json
-		      {
-		          "ConnectionStrings": {
-		              "Default": "Server=YOUR_SERVER;Database=mydatabase;User  Id=YOUR_USER;Password=YOUR_PASSWORD;MultipleActiveResultSets=true"
-		          }
-		      }
+			appsetings.json
+				  {
+					  "ConnectionStrings": {
+						  "Default": "Server=YOUR_SERVER;Database=mydatabase;User  Id=YOUR_USER;Password=YOUR_PASSWORD;MultipleActiveResultSets=true"
+					  }
+				  }
 		
-		ConnectionStrings
-		      https://www.connectionstrings.com/sql-server/
-		      https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
-		      https://stackoverflow.com/questions/15631602/how-to-set-sql-server-connection-string
+			ConnectionStrings
+				  https://www.connectionstrings.com/sql-server/
+				  https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
+				  https://stackoverflow.com/questions/15631602/how-to-set-sql-server-connection-string
 
-			//.NET DataProvider -- Standard Connection with username and password
-			//
-			//using System.Data.SqlClient;
-			/*
-			SqlConnection conn = new SqlConnection();
-			conn.ConnectionString =
-			  "Data Source=ServerName;" +
-			  "Initial Catalog=DataBaseName;" +
-			 "User id=UserName;" +
-			  "Password=Secret;";
-			conn.Open();
-			*/
+				//.NET DataProvider -- Standard Connection with username and password
+				//
+				//using System.Data.SqlClient;
+				/*
+				SqlConnection conn = new SqlConnection();
+				conn.ConnectionString =
+				  "Data Source=ServerName;" +
+				  "Initial Catalog=DataBaseName;" +
+				 "User id=UserName;" +
+				  "Password=Secret;";
+				conn.Open();
+				*/
 
-			//.NET DataProvider -- Trusted Connection
-			//
-			/*
-			SqlConnection conn = new SqlConnection();
-			conn.ConnectionString =
-			  "Data Source=ServerName;" +
-			  "Initial Catalog=DataBaseName;" +
-			  "Integrated Security=SSPI;";
-			conn.Open();
-			*/
+				//.NET DataProvider -- Trusted Connection
+				//
+				/*
+				SqlConnection conn = new SqlConnection();
+				conn.ConnectionString =
+				  "Data Source=ServerName;" +
+				  "Initial Catalog=DataBaseName;" +
+				  "Integrated Security=SSPI;";
+				conn.Open();
+				*/
 
-		ASP.NET Data Access Options
-			https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178359(v=vs.110)
-		SQL Server Connection Strings for ASP.NET Web Applications
-			https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)?redirectedfrom=MSDN#sqlserver
-		SQL Server 2012 Express LocalDB
-			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh510202(v=sql.110)?redirectedfrom=MSDN
-		SQL Server Connection Strings for ASP.NET Web Applications
-			https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)
-		Connection strings and models (EntityFramework)
-			https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/connection-strings?redirectedfrom=MSDN
+			ASP.NET Data Access Options
+				https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178359(v=vs.110)
+			SQL Server Connection Strings for ASP.NET Web Applications
+				https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)?redirectedfrom=MSDN#sqlserver
+			SQL Server 2012 Express LocalDB
+				https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh510202(v=sql.110)?redirectedfrom=MSDN
+			SQL Server Connection Strings for ASP.NET Web Applications
+				https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)
+			Connection strings and models (EntityFramework)
+				https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/connection-strings?redirectedfrom=MSDN
 
 	Visual Studio product family
 	============================
