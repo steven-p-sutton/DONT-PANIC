@@ -185,6 +185,10 @@ Micosoft Documentation
 
 		Integer
 			https://www.tutorialsteacher.com/articles/convert-string-to-int
+		#if
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+		#Preprocessor Directives
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
 		Properties
 			https://www.tutorialspoint.com/csharp/csharp_properties.htm
 		Reference Parameters
@@ -340,6 +344,8 @@ Micosoft Documentation
         Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application
             https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp
 
+	Microsoft 
+
 	Microsoft Entity Framework
 	==========================
 		https://docs.microsoft.com/en-us/ef/
@@ -405,6 +411,65 @@ Micosoft Documentation
 			MS SQL Express (LocalDb)
 			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
 
+	Microsoft ADO
+	=============
+
+		Try connection to a database
+			https://www.c-sharpcorner.com/blogs/access-sql-server-database-in-net-core-console-application
+		
+		NUGet 
+		      Microsoft.Extensions.Configuration
+		      Microsoft.Extensions.Configuration.FileExtensions
+		      Microsoft.Extensions.Configuration.Json
+		      System.Data.SqlClient
+		
+		appsetings.json
+		      {
+		          "ConnectionStrings": {
+		              "Default": "Server=YOUR_SERVER;Database=mydatabase;User  Id=YOUR_USER;Password=YOUR_PASSWORD;MultipleActiveResultSets=true"
+		          }
+		      }
+		
+		ConnectionStrings
+		      https://www.connectionstrings.com/sql-server/
+		      https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
+		      https://stackoverflow.com/questions/15631602/how-to-set-sql-server-connection-string
+
+			//.NET DataProvider -- Standard Connection with username and password
+			//
+			//using System.Data.SqlClient;
+			/*
+			SqlConnection conn = new SqlConnection();
+			conn.ConnectionString =
+			  "Data Source=ServerName;" +
+			  "Initial Catalog=DataBaseName;" +
+			 "User id=UserName;" +
+			  "Password=Secret;";
+			conn.Open();
+			*/
+
+			//.NET DataProvider -- Trusted Connection
+			//
+			/*
+			SqlConnection conn = new SqlConnection();
+			conn.ConnectionString =
+			  "Data Source=ServerName;" +
+			  "Initial Catalog=DataBaseName;" +
+			  "Integrated Security=SSPI;";
+			conn.Open();
+			*/
+
+		ASP.NET Data Access Options
+			https://docs.microsoft.com/en-us/previous-versions/aspnet/ms178359(v=vs.110)
+		SQL Server Connection Strings for ASP.NET Web Applications
+			https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)?redirectedfrom=MSDN#sqlserver
+		SQL Server 2012 Express LocalDB
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh510202(v=sql.110)?redirectedfrom=MSDN
+		SQL Server Connection Strings for ASP.NET Web Applications
+			https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)
+		Connection strings and models (EntityFramework)
+			https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/connection-strings?redirectedfrom=MSDN
+
 	Visual Studio product family
 	============================
 		https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019
@@ -453,9 +518,14 @@ Micosoft Documentation
 				https://www.c-sharpcorner.com/article/create-sql-server-database-project-with-visual-studio/
 			Shared Projects
 				https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/shared-projects?tabs=windows
+				GIT - mobile-samples/Tasky/
+					https://github.com/xamarin/mobile-samples/tree/master/Tasky
+				Portable Class Libraries (PCL)
+					https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/pcl?tabs=windows
+				Sharing code overview
+					https://docs.microsoft.com/en-us/xamarin/cross-platform/app-fundamentals/code-sharing
 			SQL Data Tools In C# - Database Creation, Management, and Deployment in Visual Studio
 				https://video.search.yahoo.com/search/video?fr=mcafee&p=Using+Visual+Studio+Database+Project+to+create+%26+manage+an+SQL+database#id=1&vid=f66723ddb2b4db1473e72f35882493be&action=click
-			
 
 		Templates & Extensions
 			https://docs.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
