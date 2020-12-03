@@ -122,10 +122,15 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-ver15
 		https://social.msdn.microsoft.com/forums/sqlserver/en-US/99cba7cf-f095-4a77-95d2-8480c8da17c6/nulls-in-a-uniqueidentifier-column
 		https://www.sqlteam.com/articles/writing-outer-joins-in-t-sql#:~:text=Writing%20Outer%20Joins%20in%20T-SQL%201%20Outer%20Join,query%2C%20things%20get%20a%20bit%20more%20complicated.%20
-
+		https://stackoverflow.com/questions/44299292/best-way-to-convert-string-to-datetimeoffset
+		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
+		https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-login-transact-sql?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/t-sql/statements/create-login-transact-sql?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
 	MS SQL (SSMS)
 		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
-
+		https://support.esri.com/en/technical-article/000009958
 	Azure Data Studio (SSMS Alternative)
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
@@ -161,6 +166,10 @@ Micosoft Documentation
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 		Collections
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+		Constructors
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors#:~:text=%20Constructors%20%28C%23%20Programming%20Guide%29%20%201%20Parameterless,object.%205%20In%20This%20Section.%20%20More%20
 		DataTable
 			https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-5.0
 		Dates
@@ -187,12 +196,18 @@ Micosoft Documentation
 			https://www.tutorialsteacher.com/articles/convert-string-to-int
 		#if
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+		JSON
+			https://www.json.org/example.html
+		Override
+			https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
 		#Preprocessor Directives
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
 		Properties
 			https://www.tutorialspoint.com/csharp/csharp_properties.htm
 		Reference Parameters
 			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
+		Using
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
 		String
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
@@ -344,8 +359,6 @@ Micosoft Documentation
         Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application
             https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp
 
-	Microsoft 
-
 	Microsoft Entity Framework
 	==========================
 		https://docs.microsoft.com/en-us/ef/
@@ -413,7 +426,6 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
 			MS SQL Express (LocalDb)
 			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
-
 			Try connection to a database
 				https://www.c-sharpcorner.com/blogs/access-sql-server-database-in-net-core-console-application
 		
@@ -431,8 +443,9 @@ Micosoft Documentation
 				  }
 		
 			ConnectionStrings
+							  
+			      https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
 				  https://www.connectionstrings.com/sql-server/
-				  https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
 				  https://stackoverflow.com/questions/15631602/how-to-set-sql-server-connection-string
 
 				//.NET DataProvider -- Standard Connection with username and password
@@ -465,8 +478,6 @@ Micosoft Documentation
 				https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)?redirectedfrom=MSDN#sqlserver
 			SQL Server 2012 Express LocalDB
 				https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh510202(v=sql.110)?redirectedfrom=MSDN
-			SQL Server Connection Strings for ASP.NET Web Applications
-				https://docs.microsoft.com/en-us/previous-versions/aspnet/jj653752(v=vs.110)
 			Connection strings and models (EntityFramework)
 				https://docs.microsoft.com/en-us/ef/ef6/fundamentals/configuring/connection-strings?redirectedfrom=MSDN
 

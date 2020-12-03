@@ -108,7 +108,10 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/answers/index.html
 	Code Samples
 		https://docs.microsoft.com/en-us/samples/browse/
-
+	MSSQL Server
+		https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver15
+	MS SQL (SSMS)
+		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
 	T-SQL (used as working on code etc)
 		https://www.tutorialspoint.com/t_sql/t_sql_quick_guide.htm
 		https://www.tutorialspoint.com/t_sql/t_sql_insert_statement.htm
@@ -122,9 +125,6 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-ver15
 		https://social.msdn.microsoft.com/forums/sqlserver/en-US/99cba7cf-f095-4a77-95d2-8480c8da17c6/nulls-in-a-uniqueidentifier-column
 		https://www.sqlteam.com/articles/writing-outer-joins-in-t-sql#:~:text=Writing%20Outer%20Joins%20in%20T-SQL%201%20Outer%20Join,query%2C%20things%20get%20a%20bit%20more%20complicated.%20
-
-	MS SQL (SSMS)
-		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
 
 	Azure Data Studio (SSMS Alternative)
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
@@ -196,6 +196,7 @@ Micosoft Documentation
 		String
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
+			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=net-5.0
 		Task (see Aswait / Async)
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 		TextFieldParser
@@ -344,7 +345,33 @@ Micosoft Documentation
         Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application
             https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp
 
-	Microsoft 
+	Microsoft MS-SQL
+	================
+		https://docs.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver15
+
+		Books Online for SQL Server 2012
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/ms130214(v=sql.110)
+		Tutorials for SQL Server 2012
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh231699(v=sql.110)
+		Database Features
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh230827(v=sql.110)
+		Database Engine Instances
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/hh231298(v=sql.110)
+		Database Engine Features
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/bb500155(v=sql.110)
+		Security
+			https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2012/bb510589(v=sql.110)
+		MSLocalDB / SQLExpress
+			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
+		MS SQL (SSMS)
+			https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15
+			https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+			https://docs.microsoft.com/en-us/sql/ssms/administer-servers-with-sql-server-management-studio?view=sql-server-ver15
+			https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
+
+		Azure Data Studio (SSMS Alternative)
+			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
+			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
 
 	Microsoft Entity Framework
 	==========================
