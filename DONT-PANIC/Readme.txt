@@ -128,6 +128,7 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/sql/t-sql/statements/create-login-transact-sql?view=sql-server-ver15
 		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15
 		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-string-syntax
 	MS SQL (SSMS)
 		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
 		https://support.esri.com/en/technical-article/000009958
@@ -166,6 +167,8 @@ Micosoft Documentation
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 		Collections
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+		Configuration Files
+			https://search.yahoo.com/search?fr=mcafee&type=E211US714G91370&p=Microsoft.Extensions.Configuration%3B
 		Constructors
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
@@ -443,6 +446,11 @@ Micosoft Documentation
 				  }
 		
 			ConnectionStrings
+				https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-string-syntax
+				https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/creating-a-connection-string
+
+				https://sqlundercover.com/2020/11/30/sql-server-login-default-database-and-failed-logins/
+
 							  
 			      https://csharp.hotexamples.com/examples/-/SqlConnection/-/php-sqlconnection-class-examples.html
 				  https://www.connectionstrings.com/sql-server/
