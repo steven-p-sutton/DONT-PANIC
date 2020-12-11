@@ -1,6 +1,15 @@
-================================================================================
+﻿================================================================================
 ===================================== ToDo ===================================== 
 ================================================================================
+
+
+
+
+Tutorial Resources
+==================
+Check out other articles on "ASP.NET Core, jQuery, EF Core, SEO, jQuery, HTML" and more.
+https://www.yogihosting.com/
+
 
 Visual Studio Magazine
 ======================
@@ -71,6 +80,12 @@ Visual Studio Blend
 
 	Download SDK
 	https://dotnet.microsoft.com/download/dotnet/5.0
+
+	ASP.NET Core — How to use Dependency Injection in Entity Framework Core
+	https://hackernoon.com/asp-net-core-how-to-use-dependency-injection-in-entity-framework-core-4388fc5c148b
+
+	Examples/Tutorials
+	https://www.yogihosting.com/category/ef-core/
 
 ================================================================================
 ================================= Documentation ================================ 
@@ -434,9 +449,13 @@ Micosoft Documentation
 
 		References
 			'Code First' to a New Database
-			https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
+				https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
 			MS SQL Express (LocalDb)
-			https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
+				https://www.sqlshack.com/how-to-connect-and-use-microsoft-sql-server-express-localdb/
+			ASP.NET Core — How to use Dependency Injection in Entity Framework Core
+				https://hackernoon.com/asp-net-core-how-to-use-dependency-injection-in-entity-framework-core-4388fc5c148b
+			Examples/Tutorials
+				https://www.yogihosting.com/category/ef-core/
 
 	Microsoft ADO
 	=============

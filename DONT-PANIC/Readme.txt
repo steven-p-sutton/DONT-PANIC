@@ -98,6 +98,7 @@ Microsoft Code Samples
 
 Micosoft Documentation
 ======================
+	Top Level
 	https://docs.microsoft.com/en-us/
 
 	Technical documentation
@@ -108,34 +109,8 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/answers/index.html
 	Code Samples
 		https://docs.microsoft.com/en-us/samples/browse/
-
-	T-SQL (used as working on code etc)
-		https://www.tutorialspoint.com/t_sql/t_sql_quick_guide.htm
-		https://www.tutorialspoint.com/t_sql/t_sql_insert_statement.htm
-		https://docs.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql?view=sql-server-ver15
-		https://stackoverflow.com/questions/17274276/how-to-generate-and-manually-insert-a-uniqueidentifier-in-sql-server
-		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
-		https://docs.microsoft.com/en-us/sql/t-sql/functions/getdate-transact-sql?view=sql-server-ver15
-		https://www.tutorialspoint.com/t_sql/t_sql_stored_procedures.htm
-		https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-ver15
-		https://social.msdn.microsoft.com/forums/sqlserver/en-US/99cba7cf-f095-4a77-95d2-8480c8da17c6/nulls-in-a-uniqueidentifier-column
-		https://www.sqlteam.com/articles/writing-outer-joins-in-t-sql#:~:text=Writing%20Outer%20Joins%20in%20T-SQL%201%20Outer%20Join,query%2C%20things%20get%20a%20bit%20more%20complicated.%20
-		https://stackoverflow.com/questions/44299292/best-way-to-convert-string-to-datetimeoffset
-		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
-		https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-login-transact-sql?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/t-sql/statements/create-login-transact-sql?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-string-syntax
-	MS SQL (SSMS)
-		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
-		https://support.esri.com/en/technical-article/000009958
-	Azure Data Studio (SSMS Alternative)
-			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
-			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
 	AZURE
+	-----
 		Identity
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
@@ -148,12 +123,19 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 		Quantum SDK
 			https://azure.microsoft.com/en-us/services/quantum/
-
 	.NET
+	----
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/video
 	C#
+	--
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
+		https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs
+
+		Arrays
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
 		Async / Await (see Task)
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 		Class
@@ -188,6 +170,8 @@ Micosoft Documentation
 			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
 			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions
 			https://www.telerik.com/blogs/custom-exceptions-in-c#:~:text=Custom%20Exceptions%20in%20C%23%201%20Exception%20Classes%20in,Custom%20Exception.%20...%203%20Using%20Custom%20Exception.%20
+		Extension Methods
+			https://www.tutorialsteacher.com/csharp/csharp-extension-method
 		Files
 			FileStream
 				https://www.guru99.com/c-sharp-stream.html
@@ -199,8 +183,14 @@ Micosoft Documentation
 			https://www.tutorialsteacher.com/articles/convert-string-to-int
 		#if
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+		IEnumerable
+			https://stackoverflow.com/questions/6573069/initializing-ienumerablestring-in-c-sharp
+			https://www.dotnetperls.com/ienumerable
 		JSON
 			https://www.json.org/example.html
+		LINQ
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
 		Override
 			https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
 		#Preprocessor Directives
@@ -211,6 +201,8 @@ Micosoft Documentation
 			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
 		Using
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+		Serialization
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
 		String
 			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
@@ -220,12 +212,82 @@ Micosoft Documentation
 			https://thecodebuzz.com/read-csv-file-in-net-core/
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 		Try / Catch
+			Sync
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
+
+			Async
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch#async-method-example
+	LINQ
+	----
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
+
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
+
+		Introduction to LINQ Queries 
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
+		LINQ and Generic Types
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/linq-and-generic-types
+		Basic LINQ Query Operations
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/basic-linq-query-operations
+		Data Transformations with LINQ
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/data-transformations-with-linq
+		Type Relationships in LINQ Query Operations
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/type-relationships-in-linq-query-operations
+		Query Syntax and Method Syntax in LINQ
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq
+		C# Features That Support LINQ
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/features-that-support-linq
+		Walkthrough: Writing Queries in C#
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
+		Standard Query Operators Overview
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
+		LINQ to Objects
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/linq-to-objects
+		LINQ to ADO.NET (Portal Page)
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/linq-to-adonet-portal-page
+		Enabling a Data Source for LINQ Querying
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/enabling-a-data-source-for-linq-querying1
+		Visual Studio IDE and Tools Support for LINQ
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/visual-studio-ide-and-tools-support-for-linq
+
+		Work with Language-Integrated Query (LINQ)
+			https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
+	T-SQL
+	-----
+		https://www.tutorialspoint.com/t_sql/t_sql_quick_guide.htm
+		https://www.tutorialspoint.com/t_sql/t_sql_insert_statement.htm
+		https://docs.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql?view=sql-server-ver15
+		https://stackoverflow.com/questions/17274276/how-to-generate-and-manually-insert-a-uniqueidentifier-in-sql-server
+		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
+		https://docs.microsoft.com/en-us/sql/t-sql/functions/getdate-transact-sql?view=sql-server-ver15
+		https://www.tutorialspoint.com/t_sql/t_sql_stored_procedures.htm
+		https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/tables/create-foreign-key-relationships?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-ver15
+		https://social.msdn.microsoft.com/forums/sqlserver/en-US/99cba7cf-f095-4a77-95d2-8480c8da17c6/nulls-in-a-uniqueidentifier-column
+		https://www.sqlteam.com/articles/writing-outer-joins-in-t-sql#:~:text=Writing%20Outer%20Joins%20in%20T-SQL%201%20Outer%20Join,query%2C%20things%20get%20a%20bit%20more%20complicated.%20
+		https://stackoverflow.com/questions/44299292/best-way-to-convert-string-to-datetimeoffset
+		https://stackoverflow.com/questions/12957635/sql-query-to-insert-datetime-in-sql-server
+		https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-login-transact-sql?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/t-sql/statements/create-login-transact-sql?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-string-syntax
+	MS SQL (SSMS)
+	-------------
+		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+		https://support.esri.com/en/technical-article/000009958
+	Azure Data Studio (SSMS Alternative)
+	------------------------------------
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
 	Q#
+	---
 		User Guide
 			https://docs.microsoft.com/en-us/quantum/user-guide/
 
 	.NET Architecture Guides
+	------------------------
 		https://dotnet.microsoft.com/learn/dotnet/architecture
 
 	Platforms
@@ -582,6 +644,10 @@ Micosoft Documentation
 
 			Tutorials (Console/UWP/WPF/WinForms/WEB/ASP/Core)
 				https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019
+
+		Intellisense
+			AI Based (new)
+			https://docs.microsoft.com/en-us/visualstudio/intellicode/not-in-toc/autotraining_faq
 
 	Visual Studio Code
 	==================
