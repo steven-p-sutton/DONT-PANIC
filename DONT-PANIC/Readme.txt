@@ -109,114 +109,217 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/answers/index.html
 	Code Samples
 		https://docs.microsoft.com/en-us/samples/browse/
-	AZURE
-	-----
-		Identity
-			https://docs.microsoft.com/en-us/azure/active-directory/develop/
-			https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
-		Data Studio (SSMS Alternative)
-			https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
-			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15			
-		Indight Widgets (Azure Data Studio)
-				https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
-		Graph API
-			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
-		Quantum SDK
-			https://azure.microsoft.com/en-us/services/quantum/
-	.NET
-	----
-		https://dotnet.microsoft.com/
-			https://dotnet.microsoft.com/learn
-				https://dotnet.microsoft.com/learn/video
-	C#
-	--
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
-		https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs
+ANGULAR
+-------
+	Node Package Manager (npm)
+		https://nodejs.org/en/download/
+		$ npm -v
 
-		Arrays
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
-		Async / Await (see Task)
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
-		Class
-			https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples
-			https://stackoverflow.com/questions/16363753/get-instance-name-c-sharp
-			Abstract
-				https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
-			Sealed
-		Csv
-			https://thecodebuzz.com/read-csv-file-in-net-core/
-			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
-		Collections
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
-		Configuration Files
-			https://search.yahoo.com/search?fr=mcafee&type=E211US714G91370&p=Microsoft.Extensions.Configuration%3B
-		Constructors
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors#:~:text=%20Constructors%20%28C%23%20Programming%20Guide%29%20%201%20Parameterless,object.%205%20In%20This%20Section.%20%20More%20
-		DataTable
-			https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-5.0
-		Dates
-			https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
-		Dialog Boxes
-			https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
-		Dictionary
-			https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
-		Enumerations
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
-		Exceptions
-			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/
-			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
-			https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions
-			https://www.telerik.com/blogs/custom-exceptions-in-c#:~:text=Custom%20Exceptions%20in%20C%23%201%20Exception%20Classes%20in,Custom%20Exception.%20...%203%20Using%20Custom%20Exception.%20
-		Extension Methods
-			https://www.tutorialsteacher.com/csharp/csharp-extension-method
-		Files
-			FileStream
-				https://www.guru99.com/c-sharp-stream.html
-				http://zetcode.com/csharp/filestream/#:~:text=The%20FileStream%27s%20Read%20%28%29%20method%20reads%20a%20block,in%20the%20specified%20byte%20array%20into%20a%20string.
-			TextStream
-			https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
+	Node.js
+		$ node -v
 
-		Integer
-			https://www.tutorialsteacher.com/articles/convert-string-to-int
-		#if
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
-		IEnumerable
-			https://stackoverflow.com/questions/6573069/initializing-ienumerablestring-in-c-sharp
-			https://www.dotnetperls.com/ienumerable
-		JSON
-			https://www.json.org/example.html
-		LINQ
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
+	CLI Tool
+		https://angular.io/cli
+		$ npm install -g @angular/cli
+
+	Create new app
+		$ ng new my-app
+
+	Build & Run
+		$ cd my-app
+		$ ng serve --open
+		( http://localhost:4200/.)
+
+	Tour Of Heroes
+		https://angular.io/tutorial#:~:text=This%20Tour%20of%20Heroes%20tutorial%20shows%20you%20how,selected%20hero%27s%20detail%2C%20and%20navigates%20among%20different%20
+		
+		Run node.js cmd prompt (start menu)
+
+		Create new app
+		$ ng new angular-tour-of-heroes
+
+		Build & Run
+		$ C:\Users\steve\Documents\Visual Studio Work\TECHNOLOGY\ANGULAR
+		$ ng new angular-tour-of-heroes
+		$ ng serve --open
+		( http://localhost:4200/.)
+
+	Visual Studio code
+		How to create, run and debug Angular app using Visual Studio Code
+			https://codeolives.com/2020/02/18/how-to-create-a-new-angular-application-using-angular-cli/
+		How To Debug Angular CLI Applications in Visual Studio Code
+			https://www.digitalocean.com/community/tutorials/how-to-debug-angular-cli-applications-in-visual-studio-code
+		Setting up Visual Studio Code for Angular Development
+			https://medium.com/@mandeep1012/setting-up-visual-studio-code-for-angular-development-f8d45c6ae45b
+			
+			package.json - dependencies
+			launch.json - run properties for Chrome browser
+			    "url": "http://localhost:4200"
+
+			Debugger for Chrome
+			Prettier — Code Formatter
+			Angular Language Service
+			TS Lint {for typescript} *What is a Linter?*
+
+			Node.JS 
+				cms shell started
+					$ ng serve
+
+			VS Code Run/Debug
+				Add launch.json
+					run properties for Chrome browser
+					"url": "http://localhost:4200"				
+
+	Visual Studio 2019
+		Creating an Angular App in Visual Studio 2019
+			https://www.c-sharpcorner.com/article/creating-an-angular-app-in-visual-studio-2019/
+
+			New Project
+				Web Core Angular project
+			VS Build 
+			Node.JS Start Cmd prompt
+				$ ng serve
+			VS Debug 
+
+AZURE
+-----
+	Identity
+		https://docs.microsoft.com/en-us/azure/active-directory/develop/
+		https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
+	Data Studio (SSMS Alternative)
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15			
+	Indight Widgets (Azure Data Studio)
+			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
+	Graph API
+		https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
+	Quantum SDK
+		https://azure.microsoft.com/en-us/services/quantum/
+.NET
+----
+	https://dotnet.microsoft.com/
+		https://dotnet.microsoft.com/learn
+			https://dotnet.microsoft.com/learn/video
+C#
+--
+	https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+	https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/
+	https://docs.microsoft.com/en-us/dotnet/csharp/walkthroughs
+
+	Abstract (not just classes)
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+	Access Modifiers
+		https://dotnettutorials.net/lesson/access-modifiers-interview-questions-answers-csharp/#:~:text=What%20are%20Access%20Modifiers%20in%20C%23%3F%201%20Public%3A,or%20in%20a%20derived%20class.%20More%20items...%20
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+	Arrays
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
+	Async / Await (see Task)
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+	Class
+		https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples
+		https://stackoverflow.com/questions/16363753/get-instance-name-c-sharp
+		Abstract
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+		Sealed
+		Interface
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
 		Override
-			https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
-		#Preprocessor Directives
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
-		Properties
-			https://www.tutorialspoint.com/csharp/csharp_properties.htm
-		Reference Parameters
-			https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
-		Using
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
-		Serialization
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
-		String
-			https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
-			https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
-		Task (see Aswait / Async)
-			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
-		TextFieldParser
-			https://thecodebuzz.com/read-csv-file-in-net-core/
-			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
-		Try / Catch
-			Sync
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
+		Protected
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected
+	Csv
+		https://thecodebuzz.com/read-csv-file-in-net-core/
+		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
+	Collections
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
+	Configuration Files
+		https://search.yahoo.com/search?fr=mcafee&type=E211US714G91370&p=Microsoft.Extensions.Configuration%3B
+	Console
+		https://docs.microsoft.com/en-us/dotnet/api/system.console.out?view=net-5.0
+	Constructors
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-objects-by-using-an-object-initializer
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors#:~:text=%20Constructors%20%28C%23%20Programming%20Guide%29%20%201%20Parameterless,object.%205%20In%20This%20Section.%20%20More%20
+	DataTable
+		https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-5.0
+	Dates
+		https://www.c-sharpcorner.com/UploadFile/manas1/string-to-datetime-conversion-in-C-Sharp/
+	DateTime
+		https://www.dotnetperls.com/datetime-now
+	Dialog Boxes
+		https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
+	Dictionary
+		https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
+	Enumerations
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+	Exceptions
+		https://docs.microsoft.com/en-us/dotnet/standard/exceptions/
+		https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
+		https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions
+		https://www.telerik.com/blogs/custom-exceptions-in-c#:~:text=Custom%20Exceptions%20in%20C%23%201%20Exception%20Classes%20in,Custom%20Exception.%20...%203%20Using%20Custom%20Exception.%20
+	Extension Methods
+		https://www.tutorialsteacher.com/csharp/csharp-extension-method
+	Files
+		FileStream
+			https://www.guru99.com/c-sharp-stream.html
+			http://zetcode.com/csharp/filestream/#:~:text=The%20FileStream%27s%20Read%20%28%29%20method%20reads%20a%20block,in%20the%20specified%20byte%20array%20into%20a%20string.
+		TextStream
+		https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
+	Generics <T>
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generic-classes
+		https://www.tutorialspoint.com/csharp/csharp_generics.htm
+		https://www.tutorialsteacher.com/csharp/csharp-generics
+	Integer
+		https://www.tutorialsteacher.com/articles/convert-string-to-int
+	Interface
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
+	#if
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+	IEnumerable
+		https://stackoverflow.com/questions/6573069/initializing-ienumerablestring-in-c-sharp
+		https://www.dotnetperls.com/ienumerable
+	JSON
+		https://www.json.org/example.html
+	LINQ
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
+	Loops
+		https://www.w3schools.com/cs/cs_for_loop.asp
+		https://csharp.net-tutorials.com/control-structures/loops/
+	Override
+		https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
+	#Preprocessor Directives
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+	Properties
+		https://www.tutorialspoint.com/csharp/csharp_properties.htm
+	Reference Parameters
+		https://www.tutorialspoint.com/csharp/csharp_reference_parameters.htm#:~:text=C%23%20-%20Passing%20Parameters%20by%20Reference.%20A%20reference,storage%20location%20is%20not%20created%20for%20these%20parameters.
+	Using
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+	Serialization
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
+	Stream
+		https://www.tutorialsteacher.com/csharp/csharp-stream-io#:~:text=C%23%20-%20Stream.%20C%23%20includes%20following%20standard%20IO,transfer%20bytes%20%28read%2C%20write%2C%20etc.%29%20to%20the%20source.
+		https://www.c-sharpcorner.com/uploadfile/prvn_131971/system-io-and-streams-in-C-Sharp/
 
-			Async
-			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch#async-method-example
+	String
+		https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
+		https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
+	Task (see Aswait / Async)
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/			
+	TextFieldParser
+		https://thecodebuzz.com/read-csv-file-in-net-core/
+		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
+	Try / Catch
+		Sync
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
+
+		Async
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch#async-method-example
+	WriteLine
+		https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=net-5.0
+	
 	LINQ
 	----
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
@@ -252,6 +355,9 @@ Micosoft Documentation
 
 		Work with Language-Integrated Query (LINQ)
 			https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
+	PL-SQL
+	------
+
 	T-SQL
 	-----
 		https://www.tutorialspoint.com/t_sql/t_sql_quick_guide.htm
