@@ -1,4 +1,8 @@
-﻿Product Downloads
+﻿Subscriptions
+=============
+	https://www.microsoft.com/en-gb/store/collections/visualstudio?atc=true&icid=SMB_CP1_visualstudio&rtc=2
+
+Product Downloads
 =================
 	https://appnee.com/microsoft-visual-studio-all-versions-product-keys-collection/
 
