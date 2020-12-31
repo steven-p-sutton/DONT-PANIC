@@ -99,8 +99,7 @@ Microsoft Code Samples
 Micosoft Documentation
 ======================
 	Top Level
-	https://docs.microsoft.com/en-us/
-
+		https://docs.microsoft.com/en-us/
 	Technical documentation
 		https://docs.microsoft.com/en-us/documentation/
 	Learn
@@ -111,6 +110,26 @@ Micosoft Documentation
 		https://docs.microsoft.com/en-us/samples/browse/
 ANGULAR
 -------
+	Top Level
+		https://angular.io/
+	Documents
+		https://angular.io/docs
+	Understanding Angular
+		https://angular.io/guide/component-overview
+	Developer Guides
+		https://angular.io/guide/router
+	Tutorials
+		https://angular.io/tutorial
+	Best Practices
+		https://angular.io/guide/security
+
+	Components
+		https://angular.io/guide/component-overview
+	Services
+		https://angular.io/guide/service-worker-intro
+	Templates
+		https://angular.io/guide/glossary#template
+
 	Node Package Manager (npm)
 		https://nodejs.org/en/download/
 		$ npm -v
@@ -125,11 +144,54 @@ ANGULAR
 	Create new app
 		$ ng new my-app
 
-	Build & Run
+	Git Clone
+		(need to install node modules)
+		https://www.pluralsight.com/guides/set-up-a-github-project-with-node_module
+		$ npm install
+
+	Build & Run (CLI)
 		$ cd my-app
 		$ ng serve --open
-		( http://localhost:4200/.)
+		http://localhost:4200/.
 
+	Build & Run (VS Code)
+
+		Node.JS Cmd
+			ng serve 
+		VS Code
+			Open folder to see project
+				ASPCoreAngular -> <AppRoot>\ClientApp
+				Node.JS		   -> <AppRoot>
+			Check node_modules folder present
+			Create launch.json using button on 1st run
+				http://localhost:4200/
+			Run in Chrome brower button -> click
+				http://localhost:4200/
+			
+	Build & Run (VS 2019)	
+		https://www.c-sharpcorner.com/article/creating-an-angular-app-in-visual-studio-2019/
+
+		\Properties\launchSettings.json (IIEXpress)
+		   "applicationUrl": "http://localhost:44397;",
+		Don't need to start an external CLI
+		May take a while fist time running (Chrome)
+			TECHNOLOGY
+				https://localhost:44397/
+			HELLOWORLD
+				https://localhost:44316/
+			NEWPROJECT
+				https://localhost:44321/
+
+	Components
+		https://vegibit.com/how-to-create-new-components-in-angular-using-the-cli/
+		https://stackoverflow.com/questions/46174863/error-more-than-one-module-matches-use-skip-import-option-to-skip-importing-th
+		$ ng g component <name> --module <main>
+		$ ng g c Pages --module app
+
+	Services
+		$ ng g service <name>
+		$ ng g service Page
+			
 	Tour Of Heroes
 		https://angular.io/tutorial#:~:text=This%20Tour%20of%20Heroes%20tutorial%20shows%20you%20how,selected%20hero%27s%20detail%2C%20and%20navigates%20among%20different%20
 		
@@ -178,6 +240,7 @@ ANGULAR
 				Web Core Angular project
 			VS Build 
 			Node.JS Start Cmd prompt
+				cd <root>\TECHNOLOGY\ANGULAR-my-app\ClientApp
 				$ ng serve
 			VS Debug 
 
@@ -379,6 +442,27 @@ C#
 		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/getting-started-with-database-engine-permissions?view=sql-server-ver15
 		https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login?view=sql-server-ver15
 		https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/connection-string-syntax
+	TypeScript
+	----------
+		https://javascript.info/
+		https://www.w3schools.com/js/DEFAULT.asp
+		array
+			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of
+		boolean
+			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality
+		class
+
+		export
+			https://javascript.info/import-export
+		for
+			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+		import
+			https://javascript.info/import-export
+			https://appdividend.com/2019/01/23/javascript-import-statement-tutorial-with-example/
+		initializer
+			https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer
+		string
+			https://www.tutorialsteacher.com/typescript/typescript-string
 	MS SQL (SSMS)
 	-------------
 		https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
