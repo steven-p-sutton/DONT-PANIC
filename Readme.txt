@@ -1,6 +1,33 @@
 ﻿Subscriptions
 =============
-	https://www.microsoft.com/en-gb/store/collections/visualstudio?atc=true&icid=SMB_CP1_visualstudio&rtc=2
+	Azure
+		https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts
+		https://docs.microsoft.com/en-us/microsoft-365/enterprise/subscriptions-licenses-accounts-and-tenants-for-microsoft-cloud-offerings?view=o365-worldwide
+
+		https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/
+		https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go/
+
+		Organization
+
+		Subscription
+
+		License
+
+		User Account
+
+		Azure AD Tenant
+
+		Azure Dev Test Labs
+			https://azure.microsoft.com/en-us/solutions/dev-test/
+		GitHub CodeSpaces
+			https://github.com/features/codespaces/
+		Windows Virtual Desktop
+			Microsoft 365 or Windows per user license
+			https://azure.microsoft.com/en-us/services/virtual-desktop/
+
+	Visual Studio
+		https://www.microsoft.com/en-gb/store/collections/visualstudio?atc=true&icid=SMB_CP1_visualstudio&rtc=2
+		https://marketplace.visualstudio.com/subscriptions
 
 Product Downloads
 =================
@@ -89,10 +116,6 @@ Visual Studio Blend
 	Examples/Tutorials
 	https://www.yogihosting.com/category/ef-core/
 
-================================================================================
-================================= Documentation ================================ 
-================================================================================
-
 Microsoft GitHub Repositories
 ============================
 https://github.com/microsoft
@@ -158,8 +181,6 @@ Micosoft Documentation
 		Graph API
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 		Quantum SDK
-			https://azure.microsoft.com/en-us/services/quantum/
-
 	.NET
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
@@ -527,7 +548,8 @@ Micosoft Documentation
 
 	Visual Studio Subscriptions
 	===========================
-		https://docs.microsoft.com/en-us/visualstudio/subscriptions/
+		https://www.microsoft.com/en-gb/store/collections/visualstudio?atc=true&icid=SMB_CP1_visualstudio&rtc=2
+		https://marketplace.visualstudio.com/subscriptions
 
 	Visual Studio App Center
 	========================
@@ -554,6 +576,9 @@ Micosoft Documentation
 	Visual Studio 2019
 	==================
 		https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019&preserve-view=true
+
+		Tutorial - Create your first extension: Hello World
+			https://docs.microsoft.com/en-us/visualstudio/extensibility/extensibility-hello-world?view=vs-2019
 
 		How to Create and use a Database in Visual Studio 2019
 			https://social.msdn.microsoft.com/Forums/en-US/1be96e52-8f8b-443a-96d7-99688bd56470/how-to-create-and-use-a-database-in-visual-studio-2019
