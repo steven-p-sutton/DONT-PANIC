@@ -1,4 +1,4 @@
-﻿Subscriptions
+﻿
 =============
 	Azure
 		https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts
@@ -7,8 +7,15 @@
 		https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/
 		https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go/
 
-		Organization
+		https://docs.microsoft.com/en-us/azure/?product=featured
 
+
+
+		Azure Account
+			https://account.microsoft.com/account
+			https://azure.microsoft.com/en-us/free/
+		Organization
+			https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/sign-up-organization
 		Subscription
 
 		License
@@ -17,8 +24,17 @@
 
 		Azure AD Tenant
 
+		Microsoft 365 - £59 pa 
+			https://www.microsoft.com/en-gb/microsoft-365/buy/compare-all-microsoft-365-products?tab=1&rtc=1
+			https://www.microsoft.com/en-gb/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?icid=Cat-Student-CP3-M365-Personal&activetab=pivot%3aoverviewtab
+		Teams
+
+		Visual Studio Subscription - £573 pa
+			https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers/#subscription-pricing
+			https://www.microsoft.com/en-gb/p/visual-studio-professional-2019/dg7gmgf0f6q1?cid=msft_web_collection&activetab=pivot%3aoverviewtab
 		Azure Dev Test Labs
 			https://azure.microsoft.com/en-us/solutions/dev-test/
+			https://azure.microsoft.com/en-us/pricing/dev-test/
 		GitHub CodeSpaces
 			https://github.com/features/codespaces/
 		Windows Virtual Desktop
