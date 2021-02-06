@@ -350,6 +350,8 @@ C#
 	Loops
 		https://www.w3schools.com/cs/cs_for_loop.asp
 		https://csharp.net-tutorials.com/control-structures/loops/
+	MOQ
+		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
 	Override
 		https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
 	#Preprocessor Directives
@@ -365,24 +367,23 @@ C#
 	Stream
 		https://www.tutorialsteacher.com/csharp/csharp-stream-io#:~:text=C%23%20-%20Stream.%20C%23%20includes%20following%20standard%20IO,transfer%20bytes%20%28read%2C%20write%2C%20etc.%29%20to%20the%20source.
 		https://www.c-sharpcorner.com/uploadfile/prvn_131971/system-io-and-streams-in-C-Sharp/
-
 	String
 		https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 		https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
 	Task (see Aswait / Async)
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/			
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
 	TextFieldParser
 		https://thecodebuzz.com/read-csv-file-in-net-core/
 		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
 	Try / Catch
 		Sync
 		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
-
 		Async
 		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch#async-method-example
 	WriteLine
 		https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=net-5.0
-	
 	LINQ
 	----
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
@@ -418,6 +419,11 @@ C#
 
 		Work with Language-Integrated Query (LINQ)
 			https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
+	
+	MOQ
+	---
+		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
+	
 	PL-SQL
 	------
 
