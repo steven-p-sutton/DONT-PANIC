@@ -9,8 +9,6 @@
 
 		https://docs.microsoft.com/en-us/azure/?product=featured
 
-
-
 		Azure Account
 			https://account.microsoft.com/account
 			https://azure.microsoft.com/en-us/free/
@@ -201,6 +199,9 @@ Micosoft Documentation
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
 				https://dotnet.microsoft.com/learn/video
+	C++
+		HelloWorld
+			https://docs.microsoft.com/en-us/windows/uwp/get-started/create-a-basic-windows-10-app-in-cppwinrt
 	C#
 		Async / Await (see Task)
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
@@ -264,6 +265,9 @@ Micosoft Documentation
 
 	.NET Architecture Guides
 		https://dotnet.microsoft.com/learn/dotnet/architecture
+
+	MOQ
+		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
 
 	Platforms
 		https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform
@@ -388,9 +392,10 @@ Micosoft Documentation
 
 	WPF
 		https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2019Tutorial
-	C++
-		HelloWorld
-			https://docs.microsoft.com/en-us/windows/uwp/get-started/create-a-basic-windows-10-app-in-cppwinrt
+
+	XUNIT
+		https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/
+		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
 
 	Microsoft Identity Platform
 	===========================
