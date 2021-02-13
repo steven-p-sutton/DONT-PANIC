@@ -313,6 +313,8 @@ C#
 		https://prod.liveshare.vsengsaas.visualstudio.com/join?F2151E126AE030174AC02156F688EF381B3B
 	Dictionary
 		https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netcore-3.1
+	Dynamic
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/using-type-dynamic
 	Enumerations
 		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
 	Exceptions
@@ -352,6 +354,8 @@ C#
 		https://csharp.net-tutorials.com/control-structures/loops/
 	MOQ
 		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
+		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
+
 	Override
 		https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
 	#Preprocessor Directives
@@ -371,9 +375,22 @@ C#
 		https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1
 		https://developerpublish.com/c-tips-and-tricks-19-repeat-a-character-n-times/
 	Task (see Aswait / Async)
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
-		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
+		Task-based asynchronous pattern
+			https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
+		Task asynchronous programming model
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/task-asynchronous-programming-model
+		Task<TResult> return type
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/async-return-types
+		Cancel a list of tasks
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/cancel-an-async-task-or-a-list-of-tasks
+		Process asynchronous tasks as they complete
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/start-multiple-async-tasks-and-process-them-as-they-complete
+		Asynchronous file access
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/using-async-for-file-access
+		Example - Breakfast (TASK-Breakfast)
+			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+		Example - TASK-MulitTask-Output (Steve Own)
+
 	TextFieldParser
 		https://thecodebuzz.com/read-csv-file-in-net-core/
 		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
@@ -416,13 +433,13 @@ C#
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/enabling-a-data-source-for-linq-querying1
 		Visual Studio IDE and Tools Support for LINQ
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/visual-studio-ide-and-tools-support-for-linq
-
 		Work with Language-Integrated Query (LINQ)
 			https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
-	
+
 	MOQ
 	---
 		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
+		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
 	
 	PL-SQL
 	------
@@ -501,6 +518,11 @@ C#
 	XMAL Designer
 		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/?view=vs-2019
 		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
+
+	XUnit
+		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
+		https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/
+		https://peterdaugaardrasmussen.com/2020/09/09/xunit-assert-that-a-call-throws-an-exception/
 
 	UWP (Windows 10 Apps)
 	https://docs.microsoft.com/en-us/windows/uwp/get-started/
