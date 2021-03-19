@@ -35,6 +35,16 @@
 			https://azure.microsoft.com/en-us/pricing/dev-test/
 		GitHub CodeSpaces
 			https://github.com/features/codespaces/
+		Cosmos
+			https://docs.microsoft.com/en-us/azure/cosmos-db/create-cosmosdb-resources-portal
+		Graph
+			https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
+
+			https://docs.microsoft.com/en-us/azure/cosmos-db/create-graph-gremlin-console
+
+				https://docs.microsoft.com/en-us/azure/cosmos-db/create-graph-dotnet
+				https://docs.microsoft.com/en-us/azure/cosmos-db/gremlin-support
+
 		Windows Virtual Desktop
 			Microsoft 365 or Windows per user license
 			https://azure.microsoft.com/en-us/services/virtual-desktop/
@@ -195,6 +205,8 @@ Micosoft Documentation
 		Graph API
 			https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 		Quantum SDK
+	Angular
+		https://riptutorial.com/topic?q=angular&submit=Search
 	.NET
 		https://dotnet.microsoft.com/
 			https://dotnet.microsoft.com/learn
@@ -214,6 +226,8 @@ Micosoft Documentation
 		Csv
 			https://thecodebuzz.com/read-csv-file-in-net-core/
 			https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
+		Coalescing (??)
+		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator
 		Collections
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
 		DataTable
@@ -237,11 +251,14 @@ Micosoft Documentation
 				http://zetcode.com/csharp/filestream/#:~:text=The%20FileStream%27s%20Read%20%28%29%20method%20reads%20a%20block,in%20the%20specified%20byte%20array%20into%20a%20string.
 			TextStream
 			https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
-
+		Generics (<T>)
+			https://www.tutorialspoint.com/csharp/csharp_generics.htm
 		Integer
 			https://www.tutorialsteacher.com/articles/convert-string-to-int
 		#if
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
+		Override
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
 		#Preprocessor Directives
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/preprocessor-directives/
 		Properties

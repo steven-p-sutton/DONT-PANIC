@@ -1,6 +1,15 @@
-================================================================================
-===================================== ToDo ===================================== 
-================================================================================
+Resources
+=========
+	RIP (Search by topic)
+		https://riptutorial.com/
+
+		Angular
+			https://riptutorial.com/angular2
+		MOC
+			https://riptutorial.com/mockito/topic/4573/mock
+
+	Tutorials Point
+		https://www.tutorialspoint.com/csharp/csharp_overview.htm
 
 Visual Studio Magazine
 ======================
@@ -331,9 +340,9 @@ C#
 		TextStream
 		https://csharp.hotexamples.com/examples/-/TextStream/-/php-textstream-class-examples.html
 	Generics <T>
+		https://www.tutorialspoint.com/csharp/csharp_generics.htm
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generic-classes
-		https://www.tutorialspoint.com/csharp/csharp_generics.htm
 		https://www.tutorialsteacher.com/csharp/csharp-generics
 	Integer
 		https://www.tutorialsteacher.com/articles/convert-string-to-int
@@ -355,7 +364,7 @@ C#
 	MOQ
 		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
 		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
-
+		https://medium.com/@aymanabaid7/beginners-guide-to-unit-testing-using-xunit-net-core-and-visual-studio-2019-e2d53ae873e5
 	Override
 		https://www.bing.com/search?pc=CBHS&ptag=N12017D111320A6577FFFB8D&form=CONBDF&conlogo=CT3210127&q=c%23+override
 	#Preprocessor Directives
@@ -390,7 +399,8 @@ C#
 		Example - Breakfast (TASK-Breakfast)
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 		Example - TASK-MulitTask-Output (Steve Own)
-
+	Templates<T>
+		https://www.tutorialspoint.com/csharp/csharp_generics.htm
 	TextFieldParser
 		https://thecodebuzz.com/read-csv-file-in-net-core/
 		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
@@ -520,6 +530,7 @@ C#
 		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
 
 	XUnit
+		https://medium.com/@aymanabaid7/beginners-guide-to-unit-testing-using-xunit-net-core-and-visual-studio-2019-e2d53ae873e5
 		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
 		https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/
 		https://peterdaugaardrasmussen.com/2020/09/09/xunit-assert-that-a-call-throws-an-exception/
