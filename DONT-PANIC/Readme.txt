@@ -1,3 +1,17 @@
+Scratch Pad
+===========
+
+https://www.tutorialspoint.com/what-is-the-difference-between-virtual-and-abstract-functions-in-chash
+
+Abstract - no implementation, derrivable to be sub-classed
+
+Interface - no implemtation, only derrived from, multiple inheritence in derrived class
+
+Virtual / Override - implementation that can be overriden if needed
+
+https://exceptionnotfound.net/csharp-in-simple-terms-10-interfaces-and-abstract-classes/
+
+
 Resources
 =========
 	RIP (Search by topic)
@@ -10,6 +24,12 @@ Resources
 
 	Tutorials Point
 		https://www.tutorialspoint.com/csharp/csharp_overview.htm
+
+	InfoWorld
+		https://www.infoworld.com/uk/
+
+		Software Developement
+			https://www.infoworld.com/uk/category/application-development/
 
 Visual Studio Magazine
 ======================
@@ -215,7 +235,7 @@ ANGULAR
 		$ ng serve --open
 		( http://localhost:4200/.)
 
-	Visual Studio code
+	Visual Studio Code
 		How to create, run and debug Angular app using Visual Studio Code
 			https://codeolives.com/2020/02/18/how-to-create-a-new-angular-application-using-angular-cli/
 		How To Debug Angular CLI Applications in Visual Studio Code
@@ -255,16 +275,20 @@ ANGULAR
 
 AZURE
 -----
+	Common Data Model (CDM)
+		https://docs.microsoft.com/en-us/common-data-model/
+	Data Lake
+		https://docs.microsoft.com/en-us/common-data-model/data-lake
+	Data Studio (SSMS Alternative)
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
+		https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15	
+	Graph API
+		https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 	Identity
 		https://docs.microsoft.com/en-us/azure/active-directory/develop/
 		https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-overview#:~:text=Microsoft%20identity%20platform%20%28v2.0%29%20overview%201%20Getting%20started.,local%20identities%2C%20see%20the%20Azure%20AD%20B2C%20overview.
-	Data Studio (SSMS Alternative)
-		https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
-		https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15			
 	Indight Widgets (Azure Data Studio)
 			https://docs.microsoft.com/en-us/sql/azure-data-studio/insight-widgets?view=sql-server-ver15
-	Graph API
-		https://docs.microsoft.com/en-us/azure/active-directory/develop/microsoft-graph-intro
 	Quantum SDK
 		https://azure.microsoft.com/en-us/services/quantum/
 .NET
@@ -285,6 +309,9 @@ C#
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
 	Arrays
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
+	Assert
+		https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.debug.assert?view=net-5.0
+		https://www.educba.com/assert-in-c-sharp/
 	Async / Await (see Task)
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 	Class
@@ -355,6 +382,8 @@ C#
 		https://www.dotnetperls.com/ienumerable
 	JSON
 		https://www.json.org/example.html
+		https://stackoverflow.com/questions/45095063/how-to-deserialize-json-property-to-class-property
+		https://stackoverflow.com/questions/59914611/attribute-jsonproperty-works-incorrect-with-net-core-3-1-when-i-use-underscore
 	LINQ
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
@@ -411,6 +440,7 @@ C#
 		https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch#async-method-example
 	WriteLine
 		https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=net-5.0
+
 	LINQ
 	----
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
@@ -530,10 +560,12 @@ C#
 		https://docs.microsoft.com/en-us/visualstudio/xaml-tools/creating-a-ui-by-using-xaml-designer-in-visual-studio?view=vs-2019
 
 	XUnit
+		https://xunit.net/docs/getting-started/netfx/visual-studio
 		https://medium.com/@aymanabaid7/beginners-guide-to-unit-testing-using-xunit-net-core-and-visual-studio-2019-e2d53ae873e5
 		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
 		https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/
 		https://peterdaugaardrasmussen.com/2020/09/09/xunit-assert-that-a-call-throws-an-exception/
+		https://hadihariri.com/2008/10/17/testing-exceptions-with-xunit/
 
 	UWP (Windows 10 Apps)
 	https://docs.microsoft.com/en-us/windows/uwp/get-started/
@@ -1018,7 +1050,15 @@ eShopOnContainers
 	Microservices architecture e-book
 		https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf
 
+Postaman
+========
+	Download
+		https://www.postman.com/downloads/
+	Web Tool
+		
+	Desktop Tool
 
+		
 
 
 

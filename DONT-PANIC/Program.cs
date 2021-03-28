@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DONT_PANIC
+namespace Conductus.DONT_PANIC
 {
     class Program
     {

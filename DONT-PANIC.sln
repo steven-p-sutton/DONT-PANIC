@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installs", "Installs", "{9F
 	ProjectSection(SolutionItems) = preProject
 		Installs\GitHubDesktopSetup.exe = Installs\GitHubDesktopSetup.exe
 		Installs\haxm-7.6.5-setup.exe = Installs\haxm-7.6.5-setup.exe
+		Installs\Postman Agent-win64-0.3.3-Setup.exe = Installs\Postman Agent-win64-0.3.3-Setup.exe
 		Installs\sqlite-viewer.exe = Installs\sqlite-viewer.exe
 		Installs\vsixTemplatePackSideWaffle.vsix = Installs\vsixTemplatePackSideWaffle.vsix
 		Installs\WinMerge-2.16.8-x64-Setup.exe = Installs\WinMerge-2.16.8-x64-Setup.exe
