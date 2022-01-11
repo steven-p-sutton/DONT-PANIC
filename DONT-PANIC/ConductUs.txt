@@ -1,0 +1,47 @@
+﻿Standards
+=========
+
+Class Naming 
+------------
+
+ <class> - Our Class
+A<class> - Abstract Class, based on I<class> with additional or overridden methods / properties
+E<class> - Empty Class, based on I<class> but each method/property raises raising NotImplementedException()
+I<class> - Interface Class, standard interface class
+M<class> - Mock Class, based on IMock and used when other functional classes need to mock this class
+X<class> - Exception classes <class><name>Exception eg WidgetNotFoundException (can contain more than 1
+)
+<MODULE>-Model - Shared C# project
+<MODULE>-Model-Net
+<MODULE>-Model-Core
+
+CODERUN
+DATABASE
+EXTENSION
+EXCEPTION
+FILE
+LOGGING
+MOCK
+PATTERN
+
+Namespaces
+----------
+
+Projects
+--------
+
+APP-<name>
+CODERUN-<name>
+MODEL-<name>
+TEST-<name>
+
+Solutions
+---------
+
+DONT-PANIC
+INFRASTRUCTUE
+TECHNOLOGY
+TRY
+WIDGET
+
+

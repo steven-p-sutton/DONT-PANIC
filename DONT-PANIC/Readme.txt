@@ -12,6 +12,18 @@ Virtual / Override - implementation that can be overriden if needed
 https://exceptionnotfound.net/csharp-in-simple-terms-10-interfaces-and-abstract-classes/
 
 
+Python
+======
+
+Visual Studio Code
+------------------
+Install python component 
+Setup VSC to run python with python.exe specified as 'C:\Users\steve\AppData\Local\Programs\Python\Python310'
+
+Visual Studio
+-------------
+using Visual Studio Installer
+
 Resources
 =========
 	RIP (Search by topic)
@@ -324,6 +336,8 @@ C#
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
 		Override
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
+		Partial
+			https://www.tutorialsteacher.com/csharp/csharp-partial-class
 		Protected
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected
 	Csv
@@ -358,6 +372,9 @@ C#
 		https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
 		https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-create-user-defined-exceptions
 		https://www.telerik.com/blogs/custom-exceptions-in-c#:~:text=Custom%20Exceptions%20in%20C%23%201%20Exception%20Classes%20in,Custom%20Exception.%20...%203%20Using%20Custom%20Exception.%20
+		https://stackoverflow.com/questions/3007608/resuming-execution-of-code-after-exception-is-thrown-and-caught
+	Expression
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/how-to-execute-expression-trees
 	Extension Methods
 		https://www.tutorialsteacher.com/csharp/csharp-extension-method
 	Files
@@ -381,12 +398,15 @@ C#
 		https://stackoverflow.com/questions/6573069/initializing-ienumerablestring-in-c-sharp
 		https://www.dotnetperls.com/ienumerable
 	JSON
+		https://www.newtonsoft.com/json
+		https://www.newtonsoft.com/json/help/html/JsonSchemaParse.htm
 		https://www.json.org/example.html
 		https://stackoverflow.com/questions/45095063/how-to-deserialize-json-property-to-class-property
 		https://stackoverflow.com/questions/59914611/attribute-jsonproperty-works-incorrect-with-net-core-3-1-when-i-use-underscore
 	LINQ
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq
 		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/
+		https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/how-to-execute-expression-trees
 	Loops
 		https://www.w3schools.com/cs/cs_for_loop.asp
 		https://csharp.net-tutorials.com/control-structures/loops/
