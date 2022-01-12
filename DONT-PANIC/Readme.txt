@@ -1,24 +1,53 @@
 Scratch Pad
 ===========
 
-https://www.tutorialspoint.com/what-is-the-difference-between-virtual-and-abstract-functions-in-chash
-
-Abstract - no implementation, derrivable to be sub-classed
-
-Interface - no implemtation, only derrived from, multiple inheritence in derrived class
-
-Virtual / Override - implementation that can be overriden if needed
-
-https://exceptionnotfound.net/csharp-in-simple-terms-10-interfaces-and-abstract-classes/
-
-
 Python
 ======
+W3
+	https://www.w3schools.com/python/python_examples.asp
+
+GIT - Implementing a "Smart Blockchain" with python
+	https://github.com/SomayyehGholami/Implementing-Smart-Blockchain
+
+Flask
+	https://riptutorial.com/Download/flask.pdf
+	https://github.com/pallets/flask
+
+	https://github.com/microsoft/python-sample-vscode-flask-tutorial
+
+	https://code.visualstudio.com/docs/python/tutorial-flask
+	- Create new Python Environment
+		py -3 -m venv .venv
+	- Open VSC & open new env folder
+	- Select Python interpreter in new env
+	- Update pip in new env
+		python -m pip install --upgrade pip
+	- Install Flask in new env
+		python -m pip install flask
+	- Create and edit code to use Flask
+		from flask import Flask
+		app = Flask(__name__)
+
+		@app.route("/")
+		def home():
+			return "Hello, Flask!"
+	- Run Code to start server in terminal
+	- Crl-Click the output url in the trminal window () to open the Flask reponse page showing "Hello, flask!"
+		Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+		http://127.0.0.1:5000/Hello/Steve
+
+Jinja
+	https://jinja.palletsprojects.com/en/3.0.x/
 
 Visual Studio Code
 ------------------
 Install python component 
-Setup VSC to run python with python.exe specified as 'C:\Users\steve\AppData\Local\Programs\Python\Python310'
+	Setup VSC to run python with python.exe specified as 'C:\Users\steve\AppData\Local\Programs\Python\Python310'
+
+Install Flask using pip
+	python -m pip install --upgrade pip
+	python -m pip install flask
 
 Visual Studio
 -------------
@@ -260,7 +289,7 @@ ANGULAR
 			    "url": "http://localhost:4200"
 
 			Debugger for Chrome
-			Prettier — Code Formatter
+			Prettier ï¿½ Code Formatter
 			Angular Language Service
 			TS Lint {for typescript} *What is a Linter?*
 
@@ -329,10 +358,12 @@ C#
 	Class
 		https://www.tutlane.com/tutorial/csharp/csharp-classes-and-objects-with-examples
 		https://stackoverflow.com/questions/16363753/get-instance-name-c-sharp
-		Abstract
+		https://www.tutorialspoint.com/what-is-the-difference-between-virtual-and-abstract-functions-in-chash
+
+		Abstract - no implementation, derrivable to be sub-classed
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
 		Sealed
-		Interface
+		Interface - no implemtation, only derrived from, multiple inheritence in derrived class
 			https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/
 		Override
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override
@@ -340,6 +371,8 @@ C#
 			https://www.tutorialsteacher.com/csharp/csharp-partial-class
 		Protected
 			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/protected
+		Virtual / Override - implementation that can be overriden if needed
+			https://exceptionnotfound.net/csharp-in-simple-terms-10-interfaces-and-abstract-classes/
 	Csv
 		https://thecodebuzz.com/read-csv-file-in-net-core/
 		https://thecodebuzz.com/read-csv-file-in-net-core-textfieldparser/
@@ -500,6 +533,13 @@ C#
 	---
 		https://www.codeproject.com/articles/991028/using-moq-for-unit-testing
 		https://www.c-sharpcorner.com/article/moq-mocking-framework-with-xunit-net-testing-fr/
+
+	PYTHON
+	------
+		https://www.w3schools.com/python/default.asp
+
+		Pip
+			https://www.w3schools.com/python/python_pip.asp
 	
 	PL-SQL
 	------
