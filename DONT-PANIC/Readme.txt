@@ -3,27 +3,82 @@ Scratch Pad
 
 Python
 ======
-W3
-	https://www.w3schools.com/python/python_examples.asp
+	W3
+		https://www.w3schools.com/python/python_examples.asp
 
-GIT - Implementing a "Smart Blockchain" with python
-	https://github.com/SomayyehGholami/Implementing-Smart-Blockchain
+	Build a “Smart Blockchain” with Python [DIY]
+		https://hackernoon.com/build-a-smart-blockchain-with-python-diy-0qbm3243
+
+		What is Smart Blockchain?
+			https://hackernoon.com/what-is-smart-blockchain-4b134275e90f
+
+			The elimination of miners and block producers by using smart contracts
+				https://medium.com/swlh/the-elimination-of-miners-and-block-producers-by-using-smart-contracts-58b20e317e9b
+
+			Bitcoin mining; Big little lies
+				https://medium.com/swlh/bitcoin-mining-big-little-lies-c6911435aa77
+
+			Smart Blockchain; The rescue of Bitcoin and saving electricity more than 50TWh per year
+				https://medium.com/swlh/smart-blockchain-the-rescue-of-bitcoin-and-saving-electricity-more-than-50twh-per-year-c17606976fce
+
+			Smart Blockchain Technology
+				https://www.newchains.info/?ref=hackernoon.com	
+
+		Learn Blockchains by Building One
+			https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+			What Are Hash Functions
+				https://privacycanada.net/hash-functions/what-are-hash-functions/?ref=hackernoon.com
+
+	GIT - https://github.com/SomayyehGholami/Implementing-Smart-Blockchain
+
+	bpsc101.py
+	----------
+		http://127.0.0.1:5000/chain
+		{
+			"chain": [
+				{
+				"index": 1, 
+				"previous_hash": "1", 
+				"timestamp": 1642118992.0252523, 
+				"transactions": []
+				}
+			], 
+			"length": 1
+		}
+
+		http://127.0.0.1:5000/mine
+		{
+			"index": 2, 
+			"message": "New Block Forged", 
+			"previous_hash": "9d7676f99ca436bcf36f990f6fab5d64fe8667ce9b148bf997b7486d5d9915a0", 
+			"transactions": []
+		}
+
+		http://127.0.0.1:5000/transactions/new
+
+
 
 Flask
-	https://riptutorial.com/Download/flask.pdf
-	https://github.com/pallets/flask
+	DOCUMENTATION - https://riptutorial.com/Download/flask.pdf
+	GIT - https://github.com/pallets/flask
 
 	https://github.com/microsoft/python-sample-vscode-flask-tutorial
 
 	https://code.visualstudio.com/docs/python/tutorial-flask
 	- Create new Python Environment
 		py -3 -m venv .venv
+
 	- Open VSC & open new env folder
+
 	- Select Python interpreter in new env
+
 	- Update pip in new env
 		python -m pip install --upgrade pip
+
 	- Install Flask in new env
 		python -m pip install flask
+
 	- Create and edit code to use Flask
 		from flask import Flask
 		app = Flask(__name__)
@@ -31,11 +86,16 @@ Flask
 		@app.route("/")
 		def home():
 			return "Hello, Flask!"
+
 	- Run Code to start server in terminal
+
 	- Crl-Click the output url in the trminal window () to open the Flask reponse page showing "Hello, flask!"
 		Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 		http://127.0.0.1:5000/Hello/Steve
+
+	- Create dependencies file for exclusion of non-application files in GIT
+		pip freeze > requirements.txt
 
 Jinja
 	https://jinja.palletsprojects.com/en/3.0.x/
